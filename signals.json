@@ -2701,6 +2701,257 @@
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/sisuturundus/2026/10/30/balti-kinnisvaraturg-tuurib-rekordi-suunas-valisraha-lahkumise-kiuste"
    }
+  },
+  {
+   "company": "FrostPro Eesti OÜ",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Hisense soojuspumpade ja kliimaseadmete ametlik esindaja otsib B2B müügispetsialisti. Peamine ülesanne on uute äriklientide leidmine, külmad kõned ja kohtumised paigaldusettevõtete ning edasimüüjatega.",
+   "why": "Kuulutuses on otse kirjas külmad kõned ja uute klientide leidmine. Fontakt saab paigaldajate ja edasimüüjate andmebaasi koostada ning kohtumisi kokku leppida juba enne uue inimese tööleasumist.",
+   "services": [
+    "pre",
+    "tel",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4484365623"
+   }
+  },
+  {
+   "company": "MASCOT Workwear",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-06",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Taani tööriiete bränd otsib Eestisse Key Account Manageri, kes vastutab brändi kasvu eest Eestis. Ülesanne on leida ja võita uusi lõppkliente ning ehitada müügitoru koostöös edasimüüjatega.",
+   "why": "Välisbränd kasvatab Eesti turgu uute ärikliendide leidmise kaudu. Fontakt saab ehitus-, tööstus- ja logistikafirmade otsustajatega kohtumisi kokku leppida.",
+   "services": [
+    "pre",
+    "tel",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4460978236"
+   }
+  },
+  {
+   "company": "Drillin",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Eesti tarkvara- ja AI-arendusfirma (12+ inseneri, 10+ klienti) otsib müügiinimest, kelle töö on tuua uusi kliente. Ülesanne on leida Eesti ettevõtteid, kes saaksid kasu eritarkvarast ja AI-lahendustest.",
+   "why": "Väike kasvav arendusfirma vajab otse uusi B2B projekte. Presales ja kohtumiste kokkuleppimine tootmis- ja ehitusfirmadega annab kiiremini tulemuse kui ühe inimese külmkontaktid.",
+   "services": [
+    "pre",
+    "tel",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487180251"
+   }
+  },
+  {
+   "company": "TeraSky Europe",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-06",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Google Cloudi partner TeraSky Europe otsib Eestisse Business Development Manageri, et laiendada pilveäri Baltikumis. Sihtrühm on idufirmad, fintech ja suurettevõtted.",
+   "why": "Välisfirma avab Eesti turgu ühe inimesega. Fontakt saab IT-juhtide andmebaasi ja kohtumistega aidata esimesed kliendid kiiremini leida.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4486977177"
+   }
+  },
+  {
+   "company": "Culligan Estonia",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-28",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Joogiveelahenduste pakkuja Culligan Estonia otsib B2B müügispetsialisti. Firma pakub joogivett nii ettevõtetele kui kodudele.",
+   "why": "Veeautomaatide ja joogiveelahenduste müük kontoritele on klassikaline B2B kõnekampaania. Fontakt saab teha kontoritele kõnesid ja kohtumisi kokku leppida.",
+   "services": [
+    "tel",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4482297534"
+   }
+  },
+  {
+   "company": "Salv",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-10",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Pankadele ja fintechidele pettusevastast tarkvara pakkuv Salv otsib BDR praktikanti, kelle töö on peamiselt outbound: õigete inimeste leidmine, helistamine ja kirjutamine.",
+   "why": "Firma ehitab outbound müüki ja ütleb otse, et vajab rohkem õigeid inimesi vestlustesse. Fontakti presales ja rahvusvaheline andmebaas sobivad seda kiirendama.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487476366"
+   }
+  },
+  {
+   "company": "Punch Club",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-05",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Põhjamaade kiiresti kasvav kokteilibränd, mida müüakse üle 35 turul, otsib Tallinna Export Manageri rahvusvahelise kasvu kiirendamiseks.",
+   "why": "Uute ekspordituru edasimüüjate ja maaletoojate leidmine on täpselt Fontakti eksporditeenus.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487762668"
+   }
+  },
+  {
+   "company": "AVAD Baltic",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "AVAD otsib Apple B2B ja B2G Business Development Manageri, kes looks nõudlust Apple'i toodetele Eesti ettevõtete ja riigiasutuste seas.",
+   "why": "Rolli sisu on nõudluse loomine suurklientide seas. Fontakt saab IT- ja ostujuhtidega kohtumisi kokku leppida.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487298976"
+   }
+  },
+  {
+   "company": "scandiweb",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Digiagentuur scandiweb otsib AI-native go-to-market juhti, kes viiks osa teenuseid eraldi brändina turule ja ehitaks outreach-süsteemid ning kampaaniad.",
+   "why": "Firma ehitab uut brändi ja outbound kanalit nullist. Fontakt saab pakkuda valmis andmebaase ja kõnekampaaniaid, kuni oma süsteem alles valmib.",
+   "services": [
+    "db",
+    "tel",
+    "crm"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4486828638"
+   }
+  },
+  {
+   "company": "Optas (Leedu)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "LT",
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Leedu tööajagraafikute SaaS-i arendaja Optas otsib Founding Account Executive'i. Kliendid on peamiselt haiglad ja hoolekanne, aga ka hotellid, jaekaubandus ja tootmine.",
+   "why": "Founding AE tähendab, et müük ehitatakse alles üles. Fontakt saab aidata Eesti haiglate ja teenindusettevõtete otsustajateni jõuda.",
+   "services": [
+    "eks",
+    "pre",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487697287"
+   }
+  },
+  {
+   "company": "Hansa Service (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-10",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Veoautode remondi- ja hooldusteenuseid pakkuv Hansa Service (UAB Manvalda) laieneb üle Euroopa ja otsib Vilniusesse müügijuhti B2B partnerluste arendamiseks.",
+   "why": "Logistika- ja transpordifirmad on hästi kaardistatav sihtrühm. Fontakt saab koostada andmebaasi ja leppida kohtumisi kokku Leedus ning Eestis.",
+   "services": [
+    "db",
+    "pre",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487230689"
+   }
   }
  ]
 }
