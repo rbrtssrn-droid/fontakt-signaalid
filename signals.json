@@ -1,0 +1,2459 @@
+{
+ "updated": "2026-11-10",
+ "signals": [
+  {
+   "company": "Morek IT OÜ",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "FI"
+   ],
+   "date": "2026-10-27",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Soome turu müügispetsialisti: soome keel, B2B müük, uute klientide leidmine. Morek tarnib elektrikomponente ja elektriautode laadimislahendusi.",
+   "why": "Laienevad Soome ja vajavad seal uusi kliente. Ühe soomekeelse müügiinimese palkamine on aeglane ja kallis.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1673638"
+   }
+  },
+  {
+   "company": "Positium",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib rahvusvahelise müügi Sales Managerit (värbab Brandem Baltic).",
+   "why": "Tartu andmefirma kasvab välisturgudel ja ehitab müüki nullist üles. Rahvusvaheline uute klientide leidmine on täpselt see koht, kus Presales aitab.",
+   "services": [
+    "eks",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1676840"
+   }
+  },
+  {
+   "company": "Lindström OÜ",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Kaks müügikuulutust korraga: Tartu müügitiimi juht (kuni 9-liikmeline tiim) ning B2B müügiesindaja Lääne- ja Ida-Virumaale.",
+   "why": "Väli-müügitiimi laiendatakse. Iga uus esindaja vajab kalendrisse kohtumisi kohe esimesest nädalast.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1677095"
+   }
+  },
+  {
+   "company": "Better Medicine",
+   "type": "deal",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-29",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Vähki tuvastava AI arendaja jõudis pärast kuut aastat esimese käibeni ega anna oma tehnoloogiat enam tasuta katsetada.",
+   "why": "Liigutakse pilootidelt päris müügile. Haiglate ja kliinikute otsustajateni jõudmine on pikk B2B-protsess, mida saab välja anda teenusena.",
+   "services": [
+    "pre",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120621143/kuus-aastat-arendust-ja-lopuks-esimene-kaive-eesti-vahi-ai-arendaja-lopetas-tasuta-tootamise"
+   }
+  },
+  {
+   "company": "Domino's Pizza Eesti",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-28",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Plaanib kolme aastaga kasvada Eestis 2 restoranilt 15-ni. Otsib frantsiisipartnereid, investeering alates 165 000 €.",
+   "why": "Nad otsivad aktiivselt ettevõtjaid ja investoreid, kellega rääkida. See on Fontakti andmebaaside ja kõnede jaoks klassikaline ülesanne.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev sisuturundus",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/10/28/dominos-pizza-soovib-laiendada-oma-tegevust-eestis-15-restoranini-ja-otsib-frantsiisipartnereid-investeering-alates-165-000-eurost"
+   }
+  },
+  {
+   "company": "SALDA UAB",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-10-28",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Leedu tootja otsib Eestisse Area Sales Managerit palgaga 4000–5000 € (värbab Fontes PMP).",
+   "why": "Välismaine tootja tugevdab Eesti turgu ja vajab ühe palgatud inimese kõrvale kohalikke kontakte ehitus- ja paigaldusettevõtetes.",
+   "services": [
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1674488"
+   }
+  },
+  {
+   "company": "Agrone Grupp",
+   "type": "deal",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-10-31",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Ostis Läti suurimad piimatööstused Rīgas piena kombināts ja Valmieras piens (kaubamärgid Kārums, Lakto).",
+   "why": "Juht ütleb otse, et eesmärk on kasvatada mahte ja jõuda uutele eksportturgudele. Uus kontsern vajab müügiprotsessi ja ühtset CRM-i.",
+   "services": [
+    "eks",
+    "crm"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610182228/estonian-raw-milk-producer-buys-latvia-s-largest-dairy-company"
+   }
+  },
+  {
+   "company": "Kaupmees Grupp",
+   "type": "lead",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Uueks juhiks sai Ansi Arumeel, endine Omniva juhatuse esimees ja Milremi juhatuse liige. Grupi käive on üle 180 miljoni euro (HoReCa hulgimüük).",
+   "why": "Uus juht esimese 100 päeva sees. Suure hulgimüüja jaoks on HoReCa uute klientide leidmine ja CRM aktuaalsed teemad.",
+   "services": [
+    "tel",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/04/omniva-ja-milremi-endine-juht-asus-vedama-kaupmees-gruppi"
+   }
+  },
+  {
+   "company": "Thermory AS",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib välitoodete müügijuhti.",
+   "why": "Thermory on ekspordile suunatud termopuidu tootja. Uus müügijuhi roll tähendab uut müügieesmärki, mida Eksport ja Presales saavad kiirendada.",
+   "services": [
+    "eks",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1676820"
+   }
+  },
+  {
+   "company": "Asker Healthcare Group",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "SE"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Stockholmi börsil noteeritud kontsern ostis juba teise Eestis tegutseva abivahendite müüja.",
+   "why": "Rootsi omanik suurendab teadlikult Eesti turuosa. Hooldekodude ja omavalitsuste poole on vaja süsteemset müüki.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/03/sudamekodude-kompanjonid-muusid-abivahendite-ari-rootsi-borsifirmale-taiendab-meie-senist-haaret-eestis"
+   }
+  },
+  {
+   "company": "Baltic Workboats AS",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "SE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Saaremaa laevatehas ehitab Taani kaitseministeeriumile peaaegu 40 miljoni euro eest viis päästelaeva.",
+   "why": "Põhjamaade kaitsesektor on avatud. Pärast sellist referentsi tasub otsida järgmisi kliente Rootsis, Soomes ja Norras.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/02/baltic-workboats-ehitab-taanile-40-miljoni-eest-viis-laeva"
+   }
+  },
+  {
+   "company": "P&E Real Estate",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Telliskivi ärilinnaku viimane ja suurim etapp, investeering 60 miljonit eurot. 2028. aastaks valmivad bürood, Inbanki peakontor ning spaa- ja saunakeskus.",
+   "why": "Uute büroopindade jaoks on vaja üürnikke juba enne valmimist. Ettevõtete otsustajateni jõudmine on Fontakti tugevus.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120622151/intervjuu-mojukas-arikinnisvara-arendaja-tallinnas-on-kindlasti-veel-nii-mondagi-puudu"
+   }
+  },
+  {
+   "company": "Endover",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-05",
+   "added": "2026-11-05",
+   "client": true,
+   "what": "Endover Assets ostab Tallinnas City Plaza (LHV peakontor) ja plaanib sinna kortereid ehitada.",
+   "why": "Olemasolev klient alustab uut suurt arendust. Hea põhjus helistada ja pakkuda presales'i ja kliendibaasi tööd sellele projektile.",
+   "services": [
+    "pre",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/05/endover-ostab-lhv-peakontori-ja-ehitab-sinna-kortereid"
+   }
+  },
+  {
+   "company": "Unisend Eesti OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Sales Managerit (1600–2000 €).",
+   "why": "Leedu päritolu pakiautomaatide võrk kasvab Eestis. Äriklientide, e-poodide ja saatjate leidmine on mahupõhine töö.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1676596"
+   }
+  },
+  {
+   "company": "Paroc UAB",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-10-27",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Tallinna Sales Managerit (alates 3800 €).",
+   "why": "Isolatsioonitootja tugevdab Eesti müüki ajal, kui EL-i direktiiv sunnib vanu ärihooneid renoveerima.",
+   "services": [
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1674184"
+   }
+  },
+  {
+   "company": "Kesko Senukai Estonia",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Värbab mitmele ametikohale uude Raadi K-rautasse Tartus.",
+   "why": "Uus kauplus vajab kiiresti kohalikke ärikliente: ehitajaid ja paigaldajaid. Avamiseelne kampaania on mõistlik telemarketingi projekt.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675690"
+   }
+  },
+  {
+   "company": "Datafox OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib B2B IT-teenuste ja -lahenduste müügijuhti.",
+   "why": "IT-teenuste müük on pikk ja vajab palju kontakte. Presales toob müügijuhile kvalifitseeritud kohtumisi.",
+   "services": [
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1666454"
+   }
+  },
+  {
+   "company": "GlobalReader OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Tartusse Account Managerit, kelle ülesanne on ka uued kliendisuhted ja müügipakkumised.",
+   "why": "Ühe inimese roll on korraga kliendihaldus ja uue äri leidmine. Uute klientide otsimise saab anda Fontaktile.",
+   "services": [
+    "pre",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1677326"
+   }
+  },
+  {
+   "company": "Bestor Grupp AS",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Kaks müügikuulutust: ehitusmaterjalide müügispetsialist Tallinnas ning müügi- ja laospetsialist Tartus.",
+   "why": "Ehitusmaterjalide müüja kasvatab tiimi kahes linnas. Telemarketing ehitusfirmadele toob uusi kliente.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1672779"
+   }
+  },
+  {
+   "company": "Filter Plus OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügijuhti.",
+   "why": "Väiksemas ettevõttes on müügijuht sageli esimene päris müügiinimene. Talle on kohe vaja kontakte ja protsessi.",
+   "services": [
+    "pre",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675711"
+   }
+  },
+  {
+   "company": "Web Systems OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib B2B müügispetsialisti veebilahenduste ja -teenuste müügiks (kaugtöö).",
+   "why": "Agentuur otsib kliente aktiivselt. Kõnede ja kohtumiste kokkuleppimise saab kohe ära anda.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675527"
+   }
+  },
+  {
+   "company": "MDSC Systems OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügiinseneri (alates 2400 €).",
+   "why": "Tehnilise müügi rollis kulub insenerile palju aega külmkontaktidele. Presales aitab tal keskenduda kohtumistele.",
+   "services": [
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1673999"
+   }
+  },
+  {
+   "company": "CITIC Telecom CPC Estonia OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügijuhti või müügispetsialisti.",
+   "why": "Telekomiteenuste B2B müük vajab sihitud andmebaasi ja süstemaatilisi kõnesid.",
+   "services": [
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1670867"
+   }
+  },
+  {
+   "company": "Iute Group AS",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Growth Managerit (Acquisition & Conversion).",
+   "why": "Kasvule keskendunud roll. Kõnekanal võib olla huvitav täiendus digitaalsele klientide hankimisele.",
+   "services": [
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1670885"
+   }
+  },
+  {
+   "company": "Eastcon AG Eesti OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib tootekonsultant-müügiesindajat üle Eesti (kaugtöö, 1400–5000 €).",
+   "why": "Laia palgavahemikuga provisjonimüük näitab, et müügimahtu tahetakse kiiresti suurendada.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675172"
+   }
+  },
+  {
+   "company": "Sockmann Group OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügiesindajat Põhja-Eestisse, Saaremaale ja Hiiumaale.",
+   "why": "Laia piirkonnaga esindajal on vaja kohtumised ette planeerida, muidu kulub aeg sõitmisele.",
+   "services": [
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675709"
+   }
+  },
+  {
+   "company": "Stoneks OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügiesindaja ja projektijuhi kombineeritud rolli.",
+   "why": "Kui sama inimene müüb ja juhib projekte, jääb uute klientide otsimine tahaplaanile.",
+   "services": [
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1669734"
+   }
+  },
+  {
+   "company": "Navy Blue OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Sales Managerit.",
+   "why": "Müügitiimi laiendamine. Hea põhjus küsida, kust uued kliendid tulema peaksid.",
+   "services": [
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1667318"
+   }
+  },
+  {
+   "company": "Spetsialist Meedia OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-28",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib ärilahenduste konsultanti.",
+   "why": "B2B-teenuste müük vajab kontakte ja kohtumisi.",
+   "services": [
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1674741"
+   }
+  },
+  {
+   "company": "Inter Cars Eesti OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-05",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügikoordinaatorit.",
+   "why": "Töökodade ja autoteeninduste võrgustiku haldamine. Seda saab toetada andmebaaside ja CRM-iga.",
+   "services": [
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675014"
+   }
+  },
+  {
+   "company": "Grafton Estonia OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Service and Account Engineeri.",
+   "why": "Tehnilise kliendihalduse roll, mis näitab olemasolevate kliendisuhete kasvu.",
+   "services": [
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1677081"
+   }
+  },
+  {
+   "company": "Sanitex OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-28",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib HoReCa müügispetsialisti.",
+   "why": "Uute restoranide ja hotellide leidmine on hea andmebaasi ja kõnede töö.",
+   "services": [
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1674723"
+   }
+  },
+  {
+   "company": "Bacula AS",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügiesindajat Tartumaale.",
+   "why": "Piirkondlik väli-müük, mis vajab kohtumisi ette.",
+   "services": [
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1676035"
+   }
+  },
+  {
+   "company": "Ideal Auto OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-27",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib ostu- ja müügijuhti (värbab Smartful Growth).",
+   "why": "Uus juhiroll väiksemas autoäris. Võimalus pakkuda B2B-autopargi klientide leidmist.",
+   "services": [
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1673507"
+   }
+  },
+  {
+   "company": "Delfi Meedia AS",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": true,
+   "what": "Otsib digitellimuste ärikliendihaldurit.",
+   "why": "Olemasolev klient kasvatab B2B-tellimuste müüki. Võimalus pakkuda telemarketingi ettevõtete digitellimustele.",
+   "services": [
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1674482"
+   }
+  },
+  {
+   "company": "Bolt",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Key Account Managerit (Baltics) ja Commercial Excellence Managerit.",
+   "why": "Suur ettevõte oma müügiorganisatsiooniga. Pigem andmebaasi- ja turu-uuringuprojekt kui Presales.",
+   "services": [
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1677215"
+   }
+  },
+  {
+   "company": "Barrus AS",
+   "type": "lead",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Võrumaa liimpuitkomponentide tehase tegevjuht Martti Kork lahkub pärast ligi seitset aastat.",
+   "why": "Ekspordiettevõttesse tuleb uus juht. Kõige parem on uue juhiga ühendust võtta tema esimestel kuudel.",
+   "services": [
+    "eks"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/02/vorumaa-uhe-suurema-tooandja-juht-lahkub-ametist"
+   }
+  },
+  {
+   "company": "Julianus Inkasso OÜ",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Avaldas Äripäevas sisuturundusartikli. Selles räägib Baltikumi ja Poola müügidirektor Mihkel Veskimägi, et ka ühe arve sissenõudmise võib spetsialistidele anda.",
+   "why": "Neil on turunduseelarve ja aktiivne müügidirektor Baltikumi neljal turul. Artiklile järgnev kõnekampaania mitmekordistab selle mõju.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev sisuturundus",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/04/inkassojuht-maksmata-arvete-tagaajamine-ei-pea-olema-ettevotja-too"
+   }
+  },
+  {
+   "company": "Lümico",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Sisuturundusartikkel keerukate klaasfassaadide, alumiiniumakende ja -uste kohta. Firmal on oma projekteerijad ja tootmine.",
+   "why": "Nad otsivad arendajaid ja arhitekte, kellel on suuremahulised projektid. Renoveerimisdirektiiv suurendab sellist nõudlust veelgi.",
+   "services": [
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev sisuturundus",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/03/kui-standardlahendusest-ei-piisa-kuidas-sunnivad-keerukad-klaasfassaadid"
+   }
+  },
+  {
+   "company": "K&R Äriteenused",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Raamatupidamisfirma avaldas Äripäevas sisuturunduse väikeettevõtjatele.",
+   "why": "Sihivad väikeettevõtteid. Sobib hästi Fontakti andmebaaside ja telemarketingiga.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev sisuturundus",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/03/5-raamatupidamiskusimust-mida-vaikeettevotjad-koige-sagedamini-kusivad"
+   }
+  },
+  {
+   "company": "Rehvid24 (Tirestar OÜ)",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-26",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Sisuturundus talverehvihooajast: müük, vahetus ja rehvihotell.",
+   "why": "Pakuvad ka ettevõtetele haldusprogrammi. Autopargiga firmad on hea sihtrühm B2B-kõnedeks.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev sisuturundus",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/10/26/talverehvihooaeg-algab-kuidas-olla-valmis-enne-esimest-libedust"
+   }
+  },
+  {
+   "company": "Renoveerimise ja energiatõhususe firmad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Kliimaministeeriumi plaani järgi peavad G- ja H-klassi mitteeluhooned jõudma 2030. aastaks F-klassi. Hinnanguline kulu on umbes 290 miljonit eurot.",
+   "why": "Isolatsiooni-, akna-, fassaadi- ja energiaauditi firmadel tekib suur sihtrühm: laod, bürood ja kaubandushooned. Andmebaas G/H-klassi hoonete omanikest on hea müügiargument.",
+   "services": [
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610181043/eu-directive-forces-6-year-renovation-deadline-on-old-non-residential-buildings"
+   }
+  },
+  {
+   "company": "Ehitusettevõtted väikelinnades",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Riik plaanib 2027. aastast pilootprojektina rajada väikelinnadesse 1000 uut korterit koos Euroopa Investeerimispangaga.",
+   "why": "Väikelinnade arendajad ja ehitajad saavad uue tellimuste voo. Neil tasub juba praegu omavalitsuste ja partneriteni jõuda.",
+   "services": [
+    "db"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610185532/1-000-new-apartments-to-be-built-in-estonia-s-smaller-towns"
+   }
+  },
+  {
+   "company": "Põllumajandusdroonide teenusepakkujad",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Alates oktoobri lõpust on lubatud taimekaitsevahendite pritsimine droonidega (rangetel tingimustel).",
+   "why": "Uus turg avanes üleöö. Drooniteenuse firmadel on vaja kiiresti jõuda põllumajandusettevõteteni.",
+   "services": [
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610181646/agricultural-drones-make-first-flights-in-estonia-as-rules-start-to-ease"
+   }
+  },
+  {
+   "company": "NOVA POST Estonia OÜ",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-21",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Sales Manageri Eestisse (alates 2800 €). Teeb kullerisaadetisi Eestist EL-i, Ukrainasse, Suurbritanniasse ja USA-sse ning laieneb varsti üle 200 riiki.",
+   "why": "Kuulutuses on otse kirjas, et tuleb leida uusi suundi ja laiendada Eestis potentsiaalsete klientide baasi. E-poodide ja eksportijate nimekiri ning kõned on täpselt Fontakti töö. Kuulutuse järgi kasutavad nad Pipedrive'i, nii et sobib ka CRM-i jutuajamiseks.",
+   "services": [
+    "tel",
+    "db",
+    "pre",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1671333"
+   }
+  },
+  {
+   "company": "Kiilto (Soome)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV",
+    "LT",
+    "FI"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Soome pereettevõte otsib Tallinna Commercial Director Balticsit, kes juhiks Professional Hygiene äri Eestis, Lätis ja Leedus (värbab WorkingDay Latvia).",
+   "why": "Põhjamaine tootja ehitab Baltikumi müüki üles. Puhastusfirmade, kinnisvarahaldurite ja HoReCa nimekirjad kolmel turul ning kohtumised uuele direktorile on kohe vajalikud.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1666272"
+   }
+  },
+  {
+   "company": "Interlux Travel",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-10-29",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Läti reisikorraldaja avab Eestis filiaali ja otsib filiaali juhti, kes käivitab üksuse, loob tiimi ja vastutab müügitulemuste eest.",
+   "why": "Uus filiaal alustab nullist. Ettevõtete, koolide ja gruppide nimekirjad ning esimesed kokkulepitud kohtumised kiirendavad käivitamist mitu kuud.",
+   "services": [
+    "pre",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675118"
+   }
+  },
+  {
+   "company": "Kingitus.ee OÜ",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "FI"
+   ],
+   "date": "2026-10-19",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib soomekeelset partneri- ja kategooriajuhti. Ülesanne on leida Soomes uusi partnereid ja neid hallata.",
+   "why": "Laienevad Soome ja vajavad seal elamuste- ja tootepakkujaid. Soomekeelne partnerite leidmine on Fontakti ekspordi- ja kõneteenuse jaoks ideaalne ülesanne.",
+   "services": [
+    "eks",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1670748"
+   }
+  },
+  {
+   "company": "Jetoil",
+   "type": "deal",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Alustas Krooningu tanklate ülevõtmist. Pärast tehingut on Jetoil tanklate arvult Eesti viies kütuse jaemüüja.",
+   "why": "Suurem võrk annab tugevama argumendi ärikliendi kütusekaardi müügiks. Autopargiga firmade nimekiri ja kõnekampaania aitavad uue mahu kiiremini täita.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Postimees",
+    "url": "https://majandus.postimees.ee/8576562/graafikud-analuus-kutusemuugi-turul-on-tekkinud-konkurents"
+   }
+  },
+  {
+   "company": "Orbico Group (Wella)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Baltikumi Sales Managerit salongitoodete suunale (Wella Company), palk alates 4200 € (värbab WorkingDay Latvia).",
+   "why": "Kolmes riigis on tuhandeid juuksuri- ja ilusalonge. Telemarketing ja andmebaas teevad sellise võrgu katmise palju kiiremaks kui üks müügijuht üksi.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1672863"
+   }
+  },
+  {
+   "company": "Hals Interiors OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügidirektorit, kes korraldab ettevõtte kogu müügitööd.",
+   "why": "Uus müügidirektor teeb esimestel kuudel uue müügiplaani. See on hea hetk pakkuda Presales'i ja CRM-i.",
+   "services": [
+    "pre",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1669314"
+   }
+  },
+  {
+   "company": "ASBIS Baltics",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-10-20",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib mänguritoodete Export Sales Manageri (3000–4000 €). Ülesanne on leida uusi kliente ja luua strateegilisi partnerlusi.",
+   "why": "IT-hulgimüüja laiendab mängurite segmendi eksporti. Edasimüüjate nimekiri ja esimesed kontaktid on vaja kiiresti kätte saada.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1671275"
+   }
+  },
+  {
+   "company": "Sysynkt",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-08",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Pilvetarkvara ettevõte otsib SaaS B2B Sales Executive'i Tallinna või uude Viljandi peakontorisse. Ettevõte räägib kiirest kasvust ja globaalse laienemise plaanidest.",
+   "why": "SaaS-müük vajab ühtlast kohtumiste voogu. Presales saab anda müügiinimesele kvalifitseeritud demo-kohtumisi.",
+   "services": [
+    "pre",
+    "eks"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1665750"
+   }
+  },
+  {
+   "company": "Cybernetica AS",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-08",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib küberturbeteenuste tiimi Sales Engineeri.",
+   "why": "Pärast küberrünnakut kaupluste külmikutele on jaekaubanduse ja elutähtsate teenuste pakkujatel küberturbe vastu suur huvi. Õige aeg otsustajatega kohtuda.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1666818"
+   }
+  },
+  {
+   "company": "Helifors AS",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-14",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Tallinna müügijuhti, kes juhib tiimi, planeerib müüki ja koostab projektipakkumisi (elektrimaterjalid).",
+   "why": "Uue müügijuhi eelarveliste eesmärkide täitmiseks on vaja elektritööde ja ehitusfirmade kontakte. Telemarketing toob tiimile pakkumisvõimalusi.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1669242"
+   }
+  },
+  {
+   "company": "Klar Aknad OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-12",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Puit- ja puitalumiiniumakende tootja otsib Tallinna müügispetsialisti. Kuulutuse järgi ulatuvad nende ambitsioonid Eestist kaugemale.",
+   "why": "Renoveerimisdirektiiv ja ekspordiplaan koos. Ehitajate, arendajate ja välisturu edasimüüjate nimekiri on otsene vajadus.",
+   "services": [
+    "db",
+    "eks",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1668034"
+   }
+  },
+  {
+   "company": "Zentra Motors",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-27",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügikonsultanti uutele automarkidele Omoda, Jaecoo ja Zeekr. Uute autode turg on tänavu kasvanud 52,5%.",
+   "why": "Uued margid vajavad tuntust ja kliente. Ettevõtete autopargid on hea B2B-sihtrühm, kelleni jõuab kõnekampaaniaga.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1670666"
+   }
+  },
+  {
+   "company": "DECK Marine Systems OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-20",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "DECK Marine Systems otsib müügiesindajat, kellel on rahvusvaheliste klientidega läbirääkimiste kogemus.",
+   "why": "Tehnilise tootja ekspordimüük vajab välisturgude kontakte ja kohtumisi.",
+   "services": [
+    "eks"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1671427"
+   }
+  },
+  {
+   "company": "BLRT Grupp AS",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-16",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib müügiinseneri.",
+   "why": "Suur tööstuskontsern kasvatab tehnilist müüki. Võimalus pakkuda Põhjamaade ekspordikontakte.",
+   "services": [
+    "eks"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1670143"
+   }
+  },
+  {
+   "company": "OIXIO IT AS",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-22",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib võrgu- ja küberturbe müügiassistenti.",
+   "why": "Küberturbe nõudlus kasvab. Müügiassistendi palkamine näitab, et päringuid ja pakkumisi on vaja rohkem hallata.",
+   "services": [
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1672279"
+   }
+  },
+  {
+   "company": "Laser Diagnostic Instruments AS",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-13",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Sales and Marketing Associate'i.",
+   "why": "Väike tehnoloogiaeksportija tugevdab müüki ja turundust. Neile sobivad välisturu kontaktid.",
+   "services": [
+    "eks"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1668561"
+   }
+  },
+  {
+   "company": "All Media Eesti AS",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-12",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib reklaamimüügi projektijuhti.",
+   "why": "Reklaamimüük on kõnedele ja kontaktidele tuginev töö. Võimalus pakkuda telemarketingi.",
+   "services": [
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1668039"
+   }
+  },
+  {
+   "company": "Prof-Elec OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-05",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Otsib Sales Representative'i (alates 2000 €).",
+   "why": "Müügiesindaja palkamine näitab müügieesmärgi kasvu. Kuulutuse järgi peetakse müügitoru Pipedrive'is, seega on see ka CRM-i vahetuse kandidaat.",
+   "services": [
+    "tel",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1665018"
+   }
+  },
+  {
+   "company": "AI-koolituste programmi koolitajad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Riigikantselei valis 5 miljoni euro suuruse AI-programmi koolitajad, enamasti PR-firmad ja digiturundajad. Eesmärk on koolitada 2027. aasta lõpuks 100 000 tööealist inimest.",
+   "why": "Programmi edu mõõdetakse osalejate arvuga. Võitnud firmad peavad kiiresti leidma tuhandeid osalejaid tööandjate kaudu, mis on mahukas telemarketingi ülesanne. Nimed leiab artiklist.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Postimees",
+    "url": "https://majandus.postimees.ee/8572204/pr-firmad-ja-digiturundajad-vaata-kes-valiti-eesti-inimestele-ai-koolitusi-tegema"
+   }
+  },
+  {
+   "company": "Ehituse alltöövõtjad ja tarnijad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-05",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Nordeconi III kvartali käive kasvas 62% (89,2 miljonit eurot), Merko Ehitusel 60% (118,2 miljonit eurot).",
+   "why": "Peatöövõtjate kasv tähendab rohkem hankeid alltöövõtjatele ja materjalitarnijatele. Nende jaoks on praegu hea aeg aktiivseks müügiks.",
+   "services": [
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/borsiuudised/2026/11/05/kasumit-kaotanud-nordecon-kasvatas-kaivet-62"
+   }
+  },
+  {
+   "company": "Küberturbe ja IT-hoolduse firmad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Küberrünnak keeras Selveri külmikud 50 kraadi peale. RIA leidis Eestis üle 30 000 haavatava seadme ja kindlustus sellist kahju ei hüvita.",
+   "why": "Jaekaubandus, toidutööstus ja hooneomanikud otsivad nüüd lahendust. IT- ja küberturbe firmadel on vaja otsustajateni jõuda enne, kui eelarved on jagatud.",
+   "services": [
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120622191/ria-tuvastas-eestis-ule-30-000-ettevotetele-ja-eraisikutele-kuuluva-haavatava-seadme-kulmikurunnak-oli-hoiatus"
+   }
+  },
+  {
+   "company": "Autodiilerid ja liisingufirmad",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Esimese kümne kuuga registreeriti 16 384 uut sõiduautot, 52,5% rohkem kui mullu. Tarbesõidukite müük tegi ootamatu hüppe.",
+   "why": "Ettevõtted uuendavad jälle autoparke. Diileritel ja liisingufirmadel tasub B2B-kliente aktiivselt otsida.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Postimees",
+    "url": "https://majandus.postimees.ee/8576232/autoturg-on-tanavu-kasvanud-mullusest-enam-kui-poole-vorra"
+   }
+  },
+  {
+   "company": "Huppa",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Eesti lasteriiete bränd otsib Lätti B2B müügiesindajat ja kohaliku filiaali juhti. Kuulutuses on külmkõned, edasimüüjate ja jaemüügipartnerite leidmine ning nendega suhtlemine.",
+   "why": "Eesti firma avab Läti turgu ühe inimesega ja kirjutab kuulutusse otse „külmkõned”. Fontakti lätikeelne kõnetiim ja andmebaas teeksid sama töö kiiremini.",
+   "services": [
+    "eks",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1671258"
+   }
+  },
+  {
+   "company": "Inbank",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Leedus on avatud mitu müügirolli: Partner Sales Manager, Car Finance Sales Specialist ja E-Commerce Sales Manager. Inbanki finantseerimislahendused on üle 6000 jaemüüja ostuprotsessis.",
+   "why": "Eesti pank kasvatab Leedus partnervõrku: kaupmehi, e-poode ja autodiilereid. Leedu kaupmeeste andmebaas ja kohtumiste kokkuleppimine kiirendavad seda.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1666488"
+   }
+  },
+  {
+   "company": "Bigbank",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-10-15",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Leedus otsitakse Leasing Sales Managerit, Relationship Manageri ja ärikliendi liisinguprojektide assistenti.",
+   "why": "Eesti pank kasvatab Leedus ärikliendi liisingut. Selleks on vaja jõuda autoparkide ja seadmeid ostvate ettevõteteni, mis on klassikaline B2B kõnekampaania.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1668799"
+   }
+  },
+  {
+   "company": "MCOM Distribution OÜ",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Eesti ettevõte otsib Lätti Sales Development Representative'i, kelle esimene ülesanne on uute klientide leidmine.",
+   "why": "SDR-i roll on puhtalt uute kontaktide otsimine, mida Fontakt teeb teenusena ja ilma värbamisriskita.",
+   "services": [
+    "tel",
+    "eks"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1671403"
+   }
+  },
+  {
+   "company": "Cowork Space OÜ",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Eesti OÜ Läti filiaal otsib Payments Sales Manageri: müügivihjete leidmine, telefoni- ja veebikohtumised ning tehingute sulgemine.",
+   "why": "Makselahenduste müük Lätis algab külmkontaktidest. Kohtumiste kokkuleppimise saab Fontaktile anda.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1676702"
+   }
+  },
+  {
+   "company": "SIROWA Group",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-05",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Hambaravi-, farmaatsia- ja ilutoodete distribuutor otsib Baltikumi müügijuhti, kes juhib Läti, Leedu ja Eesti müügitiime ning leiab uusi ärivõimalusi.",
+   "why": "Uus Baltikumi müügijuht vajab kolmel turul hambakliinikute ja apteekide kontakte. Fontaktil on need andmed olemas.",
+   "services": [
+    "db",
+    "pre",
+    "eks"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1671835"
+   }
+  },
+  {
+   "company": "Hansab",
+   "type": "abroad",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-11-04",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Turvalahenduste ettevõte otsib Lätti müügiprojektide juhti.",
+   "why": "Läti müügi kasvatamiseks on vaja kinnisvarahaldurite ja ettevõtete otsustajate kontakte.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1670286"
+   }
+  },
+  {
+   "company": "DEPO (Läti)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Läti ehituskaupade kett otsib eesti keele oskusega ärikliendi spetsialisti ja riigihangete pakkumiste koostajat.",
+   "why": "Välisfirma suunab ressurssi Eesti ärikliendi- ja hanketurule. Neil on vaja Eesti ehitusfirmade ja hankijate kontakte, mis on Fontakti kodumaa andmebaas.",
+   "services": [
+    "db",
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1676189"
+   }
+  },
+  {
+   "company": "Genlio OÜ",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "FI"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Eestis registreeritud AI-veebi- ja kasvuagentuur otsib Tamperesse kogenud B2B müüjat, kes võtaks ühendust uute ärikliendidega ja juhiks kohtumisi.",
+   "why": "Soome turul on vaja uusi kliente ja tippjuhtidega kohtumisi. Soomekeelne Presales katab just selle osa.",
+   "services": [
+    "pre",
+    "eks"
+   ],
+   "source": {
+    "name": "Duunitori",
+    "url": "https://duunitori.fi/tyopaikat/tyo/ai-growth-consultantmyynti-genlioio-sdsuu-20693104"
+   }
+  },
+  {
+   "company": "Skeleton Technologies",
+   "type": "abroad",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "FI"
+   ],
+   "date": "2026-10-02",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Eesti superkondensaatorite tootja ehitab üles Soome üksust (Varkaus) ja värbab sinna töötajaid.",
+   "why": "Uus tootmisüksus Soomes vajab kohalikke tarnijaid ja partnereid. Hea põhjus pakkuda Soome turu andmeid ja kontakte.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "Duunitori",
+    "url": "https://duunitori.fi/tyopaikat/tyo/senior-accountant-finnish-entity-oy-mfx-ssske-20619239"
+   }
+  },
+  {
+   "company": "Wendre Group",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "SE"
+   ],
+   "date": "2026-08-31",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Vändrast pärit unetoodete tootja otsib Rootsi Business Developer Scandinaviat koduteksiili suunale.",
+   "why": "Eesti tootja kasvatab Skandinaavias jaekettide ja hotellide müüki. Rootsikeelne kohtumiste kokkuleppimine on otsene abi. Kuulutus on vanem, seega kontrolli enne kõnet, kas roll on täidetud.",
+   "services": [
+    "eks",
+    "pre"
+   ],
+   "source": {
+    "name": "Platsbanken",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31415936"
+   }
+  },
+  {
+   "company": "Harju Elekter AB",
+   "type": "abroad",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "SE"
+   ],
+   "date": "2026-10-21",
+   "added": "2026-11-05",
+   "client": false,
+   "what": "Eesti börsifirma Rootsi tütarettevõte värbab Västeråsisse mehaanikakonstruktorit.",
+   "why": "Rootsi üksuse kasv tähendab rohkem projekte ja vajadust uute klientide järele Rootsi elektri- ja tööstussektoris.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "Platsbanken",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31627019"
+   }
+  },
+  {
+   "company": "Car Sales Technologies SIA",
+   "type": "crm",
+   "heat": 3,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-05",
+   "what": "Otsib tegevjuhti, kelle ülesanne on tööprotsesse parandada, automatiseerida ja IT-lahenduste juurutamist koordineerida. Kandidaadilt oodatakse CRM-süsteemide, andmevoogude ja integratsioonide tundmist.",
+   "why": "Uus juht tuleb otse CRM-i ja protsesside korrastamise ülesandega. Fontakti CRM on paindlik ja seda saab juurutada koos müügiprotsessiga, mis on just see, mida nad otsivad.",
+   "services": [
+    "crm"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1669543"
+   },
+   "added": "2026-11-05",
+   "client": false
+  },
+  {
+   "company": "Pipedrive'i kasutajad Eestis",
+   "type": "trig",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-10-29",
+   "what": "Pipedrive koondab 70% Eesti töötajatest ja vähendab kontoreid. Eesti tööportaalides küsivad Pipedrive'i oskust näiteks NOVA POST Estonia ja Prof-Elec OÜ.",
+   "why": "Pipedrive'i kasutavad Eesti ja Baltikumi ettevõtted võivad hakata muretsema kohaliku toe ja tuleviku pärast. Hea hetk pakkuda Fontakti CRM-i, millel on kohalik meeskond ja eestikeelne tugi.",
+   "services": [
+    "crm"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610180296/estonian-unicorn-pipedrive-announces-major-restructuring-office-closures"
+   },
+   "added": "2026-11-05",
+   "client": false
+  },
+  {
+   "company": "Elektrum Eesti OÜ",
+   "type": "crm",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-05",
+   "what": "Otsib müügi- ja projektijuhti, kes osaleb müügiprotsessis, koostab pakkumisi ja teeb ettepanekuid tööprotsesside parandamiseks. Tööriistadest on nimetatud Excel, Word ja PowerPoint, CRM-i mitte.",
+   "why": "Müük ja projektid käivad Office'i failides. Uus inimene saab ülesande protsesse parandada, mis on hea põhjus näidata, kuidas CRM pakkumised ja projektid ühte kohta koondab.",
+   "services": [
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1677558"
+   },
+   "added": "2026-11-05",
+   "client": false
+  },
+  {
+   "company": "Shore Link OÜ",
+   "type": "crm",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-20",
+   "what": "Otsib tehisintellekti ja digitaliseerimise spetsialisti, kes automatiseerib rutiinseid töid ja ühendab ettevõtte süsteemid ning andmeallikad API-de kaudu.",
+   "why": "Ettevõte tegeleb aktiivselt oma süsteemide ühendamisega. Kliendi- ja müügiandmete keskne koht ehk CRM on selle töö loomulik osa.",
+   "services": [
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1671307"
+   },
+   "added": "2026-11-05",
+   "client": false
+  },
+  {
+   "company": "Anda Technology OÜ",
+   "type": "crm",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-13",
+   "what": "Otsib äriarenduse praktikanti, kelle ülesanne on aidata müügiprotsesse automatiseerida, seadistada ja hallata.",
+   "why": "Firma ehitab oma müügiprotsessi alles üles. Valmis CRM koos protsessi seadistusega säästab neile kuid.",
+   "services": [
+    "crm",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1668709"
+   },
+   "added": "2026-11-05",
+   "client": false
+  },
+  {
+   "company": "W.EG Eesti OÜ",
+   "type": "crm",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-03",
+   "what": "Otsib müügianalüütikut, kes teeb müügiandmete põhjal prognoose, ehitab AI-juhtimistöölaudu ja hoolitseb kliendi- ja hinnaandmete kvaliteedi eest.",
+   "why": "Kliendiandmete kvaliteet ja müügiaruandlus on neile prioriteet. Võimalus rääkida, kuidas CRM aitab andmed korras hoida ja aruandlust automatiseerida.",
+   "services": [
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1671429"
+   },
+   "added": "2026-11-05",
+   "client": false
+  },
+  {
+   "company": "Morek (Leedu)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-05",
+   "what": "Morek otsib Leetu võtmeklientide müügijuhti, kelle ülesanne on ka uute klientide otsimine ja äri arendamine elektrotehnika lahendustega. Varem otsis firma müügiinimest ka Soome turule.",
+   "why": "Elektrikomponentide tarnija, kellel on üksus ka Eestis, laieneb korraga mitmele välisturule. Leedu ettevõtete andmebaas ja leedukeelsed helistajad toovad uuele inimesele kohtumised kiiremini.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1677636"
+   },
+   "added": "2026-11-06",
+   "client": false
+  },
+  {
+   "company": "GPK SIA (Global Peat)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LV",
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-05",
+   "what": "Läti turba- ja substraaditootja otsib Baltikumi võtmeklientide juhti, kes looks uusi koostöid Baltimaade jae- ja DIY-ketidega ning tooks sinna Global Peati ja private label tooted.",
+   "why": "Firma tahab siseneda ka Eesti kettidesse, aga otsib selleks ühte inimest. Fontakt saab kokku leppida kohtumised Eesti ja Leedu kategooriajuhtidega.",
+   "services": [
+    "pre",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1677778"
+   },
+   "added": "2026-11-06",
+   "client": false
+  },
+  {
+   "company": "Kompressorikeskus",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-05",
+   "what": "Kompressorikeskus otsib müügijuhti. Värbamist korraldab Fontes.",
+   "why": "Tehnilise B2B toote müüja ehitab müügitiimi. Kuni uus müügijuht sisse elab, saab Presales tuua talle tööstusettevõtetega esimesed kohtumised.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1677742"
+   },
+   "added": "2026-11-06",
+   "client": false
+  },
+  {
+   "company": "Delamode Estonia OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "FI"
+   ],
+   "date": "2026-11-05",
+   "what": "Otsib ekspediitorit Eesti ja Soome vahelise veo jaoks. Ülesanne on ka uute klientide leidmine veoplatvormide ja otsekontaktide kaudu ning võtmeklientide suhete hoidmine.",
+   "why": "Firma kasvatab Soome suunda ja vajab sinna uusi kliente. Soome ettevõtete andmebaas ja soomekeelsed kõned annavad uuele inimesele kiire stardi.",
+   "services": [
+    "tel",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1677816"
+   },
+   "added": "2026-11-06",
+   "client": false
+  },
+  {
+   "company": "A. Le Coq",
+   "type": "lead",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-06",
+   "what": "Jaanuarist asub A. Le Coqi juhiks ja Olvi Grupi Baltikumi asepresidendiks Katre Kõvask, kes juhtis seni kaerajoogitootjat YOOK.",
+   "why": "Uus juht vaatab esimestel kuudel müügi ja partnerid üle. Hea aeg pakkuda HoReCa ja B2B klientide kõnekampaaniat või kohtumiste kokkuleppimist.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "ERR",
+    "url": "https://www.err.ee/1610188270/a-le-coqi-uueks-juhiks-saab-toidutoostuses-karastunud-katre-kovask"
+   },
+   "added": "2026-11-06",
+   "client": false
+  },
+  {
+   "company": "Timbeco Woodhouse OÜ",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-06",
+   "what": "Moodulhoonete tootja leidis pärast rasket aastat tee Saksamaa turule ja kasvatas käivet mitu korda.",
+   "why": "Firma on näinud, et välisturg toob kasvu. Fontakt saab aidata järgmise turu avamisel Soomes ja Rootsis andmebaasi ja kohtumistega.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/06/suutsime-raskest-olukorrast-valja-tulla-majatootja-leidis-tee-saksamaale-ja-mitmekordistas-kaivet"
+   },
+   "added": "2026-11-06",
+   "client": false
+  },
+  {
+   "company": "Stargate Hydrogen",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-05",
+   "what": "Eesti vesinikufirma võttis USA börsifirmalt Cummins üle HySTAT-elektrolüüserite hoolduse ja varuosade äri. Nüüd hoolitseb ta üle 400 seadme eest 65 riigis ja võib tehnoloogiat müüa ka uutele klientidele.",
+   "why": "Firma sai korraga suure hulga uusi kliente üle maailma ja loa müüa uutele. See vajab kliendihaldust ühes süsteemis ning uute klientide leidmist.",
+   "services": [
+    "eks",
+    "crm",
+    "pre"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120622679/eestlased-votsid-ule-usa-borsihiiglase-pool-miljardit-neelanud-ari-vaga-harukordne-tehing"
+   },
+   "added": "2026-11-06",
+   "client": false
+  },
+  {
+   "company": "Valve-, telemaatika- ja IoT-seadmete firmad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-27",
+   "what": "Eesti suuremad telekomid plaanivad järgmise paari aasta jooksul 2G-võrgu sulgeda. Seda kasutavad veel paljud seadmed ja ettevõtetele tähendab nende vahetamine märkimisväärset kulu.",
+   "why": "Valvesüsteemide, sõidukijälgimise ja nutiarvestite pakkujatel tekib suur hulk ettevõtteid, kes peavad seadmed välja vahetama. Kõnekampaania aitab need kliendid enne konkurente kätte saada.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "ERR",
+    "url": "https://www.err.ee/1610178106/2g-vork-laheb-mone-aastaga-kinni-ning-see-puudutab-paljusid-seadmeid"
+   },
+   "added": "2026-11-06",
+   "client": false
+  },
+  {
+   "company": "Asicom OÜ",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-06",
+   "what": "Köögi-, laua- ja HoReCa-toodete hulgimüüja otsib Tammiste Personalibüroo kaudu müügimeeskonna juhti. Firma teenindab Eesti jaekette, HoReCa ettevõtteid ja ärikliente ka naaberturgudel.",
+   "why": "Väiksem firma toob sisse uue müügijuhi, kes hakkab tiimi ja müügitööd üles ehitama. Presales annab talle kohe uusi HoReCa ja B2B kohtumisi ning CRM aitab tiimi tööd korrastada.",
+   "services": [
+    "pre",
+    "tel",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1678206"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "Overall Eesti AS",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-08",
+   "what": "Prindi-, esitlus- ja ruumilahenduste (Canon, HP, Crestron) pakkuja otsib müügispetsialisti. Ülesanne on aktiivne müük, uute kontaktide loomine ja klientidega kohtumiste kokkuleppimine.",
+   "why": "Kuulutus ütleb otse, et uusi kliente ja kohtumisi on vaja juurde. Fontakt saab kohtumisi kokku leppida juba enne, kui uus inimene tööle asub.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1678491"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "Tripod Grupp OÜ",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-11-06",
+   "what": "Tripod Grupp otsib Tallinna Key Account Manageri, kes vastutab Baltikumi klientide eest. Sama kuulutus on avaldatud ka CV.lv-s Läti ettevõtte Tripod SIA nimel.",
+   "why": "Läti juurtega firma kasvatab müüki Eestis ühe võtmekliendijuhiga. Eesti ettevõtete andmebaas ja kohtumiste kokkuleppimine kiirendavad tema esimesi kuid.",
+   "services": [
+    "pre",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1678177"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "GARAM Elektronik AB",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "SE"
+   ],
+   "date": "2026-11-08",
+   "what": "Rootsi kaablite ja elektroonikakomponentide tootja, kellel on tootmine Eestis, otsib värbamisfirma kaudu Sales Engineeri. Firma käive on üle 100 miljoni Rootsi krooni ja ta ütleb end olevat kasvufaasis.",
+   "why": "Kasvufaasis firma tugevdab müüki Rootsis. Fontakt saab tuua Rootsi tööstus- ja kaitsesektori ostjatega kohtumisi ning pakkuda Eesti tehase kaudu ka Baltikumi kliente.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Platsbanken",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31701071"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "Piletilevi (PLG grupp)",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-09",
+   "what": "Piletilevi emafirma PLG grupp ostis 5. novembril Serbia suurima piletimüüja Ticket Vision. Grupp ütleb, et tahab kiirendada laienemist ja investeerib tehisintellektil põhinevatesse lahendustesse.",
+   "why": "Ülevõtmistega kasvav grupp vajab ühtset kliendihaldust ja uusi ürituste korraldajaid platvormile. Fontakt saab aidata korraldajate leidmisel Balti turgudel ja pakkuda CRM-i.",
+   "services": [
+    "crm",
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120623284/piletilevi-ostis-serbia-suurima-piletimuuja"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "Invego",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-08",
+   "what": "Eesti kinnisvaraarendaja Invego omandab Riias Skonto staadioni ja ehitab selle asemele uue linnakvartali. Firma plaanib 12 aasta jooksul investeerida umbes 100 miljonit eurot ning esimestele korrustele tulevad kohvikud, poed ja lasteaiad.",
+   "why": "Suur arendus Lätis vajab äripindadele üürnikke ja korteritele ostjaid. Fontakt saab Läti ettevõtete andmebaasi ja läti keeles helistajatega üürnikke otsida.",
+   "services": [
+    "tel",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "ERR",
+    "url": "https://www.err.ee/1610189908/eesti-kinnisvaraarendaja-ehitab-riia-jalgpallistaadioni-asemele-uue-linnaosa"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "Interim & Partnerid",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-06",
+   "what": "Ajutiste juhtide ja spetsialistide vahendaja avaldas Delfi Ärilehes sisuturundusartikli paindlikust juhtimisest. Kaasasutajad räägivad, et firmad vajavad üha rohkem kogenud juhte kindlaks perioodiks.",
+   "why": "B2B teenusefirma maksab nähtavuse eest ja otsib uusi ettevõttest kliente. Kõnekampaania juhtidele, kes on lugenud artiklit, aitab huvi kohtumisteks muuta.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120622826/interim-amp-partnerid-ettevotte-arenguhupe-paindliku-juhtimise-kaudu"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "AS PN Project",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "LV",
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "what": "AS PN Project arendab Riias Preses Nama Kvartāls ärikeskust, mille ehitus on lõppjärgus. Firma alustas 75 miljoni eurose võlakirjaprogrammi viimast emissiooni ja reklaamib seda Äripäeva sisuturunduses.",
+   "why": "Valmiv ärikeskus vajab büroo- ja äripindadele üürnikke. Fontakt saab Läti ettevõtete andmebaasi ja helistajatega üürnike otsingut toetada.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev sisuturundus",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/09/algas-riia-arikeskuse-75-miljoni-eurose-volakirjaprogrammi-viimane-emissioon"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "Eesti e-poed Läti ja Leedu turul",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-08",
+   "what": "E-smaspäev toimub esimest korda korraga Eestis, Lätis ja Leedus ning osaleb üle 650 veebipoe. Lätis ja Leedus on umbes pooled osalejad Eesti e-poed, kes tahavad jõuda naaberriikide ostjateni.",
+   "why": "Sajad Eesti e-poed katsetavad praegu Läti ja Leedu turgu. Nendele saab pakkuda B2B müügi, hulgimüügi partnerite ja kohalike andmebaaside kaudu laienemist.",
+   "services": [
+    "eks",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "Postimees Majandus",
+    "url": "https://majandus.postimees.ee/8579417/esmaspaeval-laheb-suureks-osturalliks-e-smaspaev-laieneb-kolme-riiki"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "Raamatupidamisbürood ja -tarkvara pakkujad",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-07",
+   "what": "Maksu- ja tolliamet muutis oktoobris TSD esitamise korda, nii et andmed saab saata otse raamatupidamistarkvarast. Raamatupidajate sõnul on uuendus toonud ummikuid ja lisatööd.",
+   "why": "Ettevõtted otsivad nüüd tarkvara ja raamatupidamisteenust, mis uue korraga sujuvalt töötab. Tarkvara- ja teenusepakkujad saavad kõnekampaaniaga väikeettevõtteid kiiresti üle võtta.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Postimees Majandus",
+    "url": "https://majandus.postimees.ee/8578832/raamatupidajad-maksuameti-peale-raevus-sellist-kobarkakki-pole-veel-olnud"
+   },
+   "added": "2026-11-09",
+   "client": false
+  },
+  {
+   "company": "Filter Plus OÜ",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-10",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Eesti õhufiltrite tootja rajab koos Capital Milliga Rae valda 10 miljoni euro eest üle kahe korra suurema tootmis- ja büroohoone. Uude hoonesse värvatakse kuni 150 inimest.",
+   "why": "Tootmisvõimsus kasvab üle kahe korra, seega tuleb leida ka uusi kliente Eestis ja ekspordis. Firma otsis hiljuti ka müügijuhti, mis näitab, et müügitöö alles kasvab.",
+   "services": [
+    "pre",
+    "eks",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/10/filtritootja-rajab-koos-capital-milliga-10-miljoni-eest-uue-tehase-ja-varbab-150-inimest"
+   }
+  },
+  {
+   "company": "Puumarket AS",
+   "type": "lead",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Puit- ja ehitusmaterjalide müüja Puumarket sai uueks tegevjuhiks Margus Amori. Seni vastutas ta ärijuhina müügi, ostu, kliendisuhete ja äritegevuse arendamise eest.",
+   "why": "Müügitaustaga uus tegevjuht tahab tavaliselt kiiresti kasvu näidata. Ehitusfirmade ja ärikliendid on hea sihtrühm kõnekampaaniale ja kohtumiste kokkuleppimisele.",
+   "services": [
+    "pre",
+    "tel",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/09/puumarket-vahetas-tegevjuhti"
+   }
+  },
+  {
+   "company": "Infortar",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-06",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Invalda INVL müüs koos teiste aktsionäridega Leedu põllumajanduskontserni Litagra Infortarile.",
+   "why": "Ülevõtmise järel tuleb kahe riigi müük ja kliendiandmed ühendada. See on hea hetk pakkuda ühtset CRM-i ja Eesti ning Leedu turu müügitoetust.",
+   "services": [
+    "crm",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120622950/infortariga-tehingu-teinud-suurinvestor-otsib-eestis-uusi-voimalusi"
+   }
+  },
+  {
+   "company": "KUREKSS ja VIKA WOOD (Läti)",
+   "type": "crm",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-06",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Kaks Läti puidutootjat otsivad biznesa snieguma un digitalizācijas vadītāju. Ülesanne on juhtida digitaliseerimise ja protsesside automatiseerimise projekte ning arendada andmeanalüütikat.",
+   "why": "Uus juht saab otsese ülesande protsesse korrastada ja digilahendusi juurutada. Fontakti CRM sobib müügi- ja kliendiandmete korrastamiseks selle projekti osana.",
+   "services": [
+    "crm"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1677973"
+   }
+  },
+  {
+   "company": "Nordin Group (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT",
+    "LV"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Bioklimaatiliste pergolate tootja laiendab tegevust Lätti ja otsib sinna müügispetsialisti. Kliendipäringud tulevad turundusest ja müüki juhitakse CRM-is koos Vilniuse meeskonnaga.",
+   "why": "Leedu firma avab uut turgu ühe müügiinimesega. Fontakt saab aidata Läti andmebaasi, ärikliendi kõnede ja kohtumistega ning hiljem ka Eesti turule sisenemisel.",
+   "services": [
+    "eks",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1678583"
+   }
+  },
+  {
+   "company": "Fileo SIA (Läti)",
+   "type": "abroad",
+   "heat": 1,
+   "markets": [
+    "LV",
+    "LT",
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Läti aiatehnika ja elektritööriistade müüja otsib tootespetsialisti, kes külastab regulaarselt partnerite kauplusi Lätis, Leedus ja Eestis.",
+   "why": "Välisfirma kasvatab müüki ka Eesti kauplustes. Fontakt saab leida Eestis uusi edasimüüjaid ja leppida kokku kohtumisi.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1678805"
+   }
+  },
+  {
+   "company": "Onninen AS",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Onninen tutvustab Äripäeva sisuturundusartiklis ettevõtetele tööriiete ja isikukaitsevahendite terviklahendust koos logotamise ja järelteenindusega.",
+   "why": "Firma maksab B2B nõudluse loomise eest ja otsib uusi ärikliente. Kõnekampaania ja kohtumised ehitus- ja tööstusfirmadega toetaksid sama sõnumit.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/09/tooriiete-ostmine-tundub-lihtne-miks-kulub-ettevotetel-sellele-nii-palju-aega-ja-raha"
+   }
+  },
+  {
+   "company": "KRS (Leedu)",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "LT",
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Leedu strateegilise taristu ehitusettevõte KRS kaasab võlakirjadega kasvuraha ka Eesti investoritelt. Tellimusportfell ületas suvel 300 miljoni euro piiri.",
+   "why": "Kiiresti kasvav ehitusfirma reklaamib end Eestis. Kasv tähendab vajadust uute tellijate, alltöövõtjate ja korras müügiprotsessi järele.",
+   "services": [
+    "crm",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/09/ule-300-miljoni-euro-eest-tellimusi-kogunud-krs-kaasab-volakirjadega-kasvuraha"
+   }
+  },
+  {
+   "company": "ALPPES Capital (Läti)",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "LV",
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Läti investeerimisettevõte ALPPES Capital pakub Eesti, Läti ja Leedu investoritele 8,75% intressiga nelja-aastaseid võlakirju. Märkida saab 17. novembrini.",
+   "why": "Firma maksab Eestis turunduse eest, et leida uusi investoreid. Edaspidi vajab ta ka sihitud kontakte ja investorisuhete haldust.",
+   "services": [
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/09/alppes-capital-pakub-875-intressiga-volakirju"
+   }
+  },
+  {
+   "company": "Soome ja Rootsi suunal eksportivad tootjad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Eesti kaupade eksport kasvas septembris aastaga 12%. LHV analüütiku sõnul veab kasvu Soome ja Rootsi majanduse kiirenemine, eriti ehitusmaterjalide ja metallitoodete ekspordis.",
+   "why": "Nõudlus Põhjamaades kasvab. Ehitusmaterjalide, metalli- ja puidutootjad saavad nüüd Fontakti eksporditeenusega Soome ja Rootsi uusi kliente leida.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "ERR",
+    "url": "https://www.err.ee/1610190973/eesti-eksporti-veavad-soome-ja-rootsi-majanduse-kasv"
+   }
+  },
+  {
+   "company": "Pakenditootjad ja pakendiringluse teenused",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Pakendiseaduse eelnõu järgi kaob pakendiaktsiis 2027. aasta 1. juulist. Samas kasvab ettevõtete kohustus pakendi koostisosadest aru anda.",
+   "why": "Pakendatud kaupa turule toovad firmad vajavad uue aruandluse jaoks abi. Pakendi-, taaskasutus- ja aruandlustarkvara pakkujad saavad neid kõnekampaaniaga kõnetada.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "ERR",
+    "url": "https://www.err.ee/1610190088/uus-pakendiseadus-palvib-tootjatelt-nii-kiitust-kui-ka-kriitikat"
+   }
+  }
+ ]
+}
