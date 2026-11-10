@@ -47,7 +47,7 @@ h1 em{font-style:normal;color:var(--red)}
 .lede{color:var(--ink-2);max-width:62ch;margin:0;font-size:16px}
 
 /* stats */
-.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:28px}
+.stats{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin-top:28px}
 .stat{appearance:none;text-align:left;background:var(--bg);border:1px solid var(--line);border-radius:14px;padding:16px;cursor:pointer;transition:border-color .15s,box-shadow .15s}
 .stat:hover{border-color:var(--ink)}
 .stat[aria-pressed="true"]{border-color:var(--red);box-shadow:0 0 0 1px var(--red) inset}
@@ -92,6 +92,7 @@ h1 em{font-style:normal;color:var(--red)}
 .heat.h1{background:var(--soft);color:var(--ink-2)}
 .type{font-size:12px;font-weight:600;color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:2px 9px}
 .mk{font-size:11px;font-weight:700;letter-spacing:.06em;color:var(--ink-2);background:var(--soft);border-radius:6px;padding:2px 6px}
+.route{font-size:12px;font-weight:700;color:#1f4fa8;background:#e8effc;border-radius:999px;padding:2px 9px;white-space:nowrap}
 .new{font-size:12px;font-weight:700;color:#fff;background:var(--red);border-radius:999px;padding:2px 9px}
 .client{font-size:12px;font-weight:600;color:#0b7a55;background:#e6f6ef;border-radius:999px;padding:2px 9px}
 .date{margin-left:auto;font-size:13px;color:var(--ink-3);font-variant-numeric:tabular-nums;white-space:nowrap}
@@ -180,6 +181,8 @@ footer{padding-block:24px 48px;color:var(--ink-3);font-size:13px;border-top:1px 
     <div><h3>Soojus</h3><div class="chips" id="f-heat"></div></div>
     <div><h3>Signaali tüüp</h3><div class="chips" id="f-type"></div></div>
     <div><h3>Turg</h3><div class="chips" id="f-mk"></div></div>
+    <div><h3>Laieneb riigist</h3><div class="chips" id="f-from"></div></div>
+    <div><h3>Laieneb riiki</h3><div class="chips" id="f-to"></div></div>
     <div><h3>Mida pakkuda</h3><div class="chips" id="f-svc"></div></div>
     <button class="reset" id="reset" type="button">Tühjenda filtrid</button>
   </aside>
@@ -193,6 +196,7 @@ footer{padding-block:24px 48px;color:var(--ink-3);font-size:13px;border-top:1px 
           <option value="added">Viimati lisatud</option>
           <option value="date">Uuemad enne</option>
           <option value="name">Nimi A–Z</option>
+          <option value="route">Suund (riigist riiki)</option>
         </select>
       </label>
     </div>
@@ -280,7 +284,9 @@ const OPEN={
  trig:c=>`Turul toimub muutus, mis loob uue nõudluse. Meil on andmed ettevõtetest, keda see puudutab, ja saame teid nende otsustajateni viia enne konkurente.`
 };
 
-const state={q:"",heat:new Set(),type:new Set(),mk:new Set(),svc:new Set(),sort:"heat",stat:null};
+const state={q:"",heat:new Set(),type:new Set(),mk:new Set(),svc:new Set(),from:new Set(),to:new Set(),sort:"heat",stat:null};
+const CN={EE:"Eesti",LV:"Läti",LT:"Leedu",FI:"Soome",SE:"Rootsi",NO:"Norra",DK:"Taani",DE:"Saksamaa",PL:"Poola",NL:"Holland",RS:"Serbia",EX:"Eksport"};
+const cn=c=>CN[c]||c;
 const $=id=>document.getElementById(id);
 const fmt=d=>{const [y,m,dd]=d.split("-");return `${dd}.${m}.${y}`};
 const esc=s=>s.replace(/[&<>"]/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
@@ -289,6 +295,7 @@ function statDefs(){return[
  {k:"hot",n:S.filter(s=>s.h===3).length,l:"Kuuma signaali",f:s=>s.h===3,cls:"is-hot"},
  {k:"hire",n:S.filter(s=>s.t==="hire").length,l:"Firmat värbab müüki",f:s=>s.t==="hire"},
  {k:"abroad",n:S.filter(s=>s.t==="abroad").length,l:"Värbab välisturul",f:s=>s.t==="abroad"},
+ {k:"route",n:S.filter(s=>s.r).length,l:"Laieneb teise riiki",f:s=>!!s.r},
  {k:"new",n:S.filter(isNew).length,l:"Lisandus viimati",f:isNew,cls:"is-hot"}
 ]}
 function renderStats(){
@@ -304,6 +311,9 @@ function renderFilters(){
  chipGroup("f-type","type",Object.keys(TYPES).map(k=>[k,TYPES[k],S.filter(s=>s.t===k).length]));
  const mks=["EE","FI","SE","LV","LT"];
  chipGroup("f-mk","mk",mks.map(m=>[m,m,S.filter(s=>s.m.includes(m)).length]));
+ const R=S.filter(s=>s.r);const cnt=(k,f)=>{const o={};R.forEach(s=>f(s).forEach(c=>o[c]=(o[c]||0)+1));return Object.entries(o).sort((a,b)=>b[1]-a[1]).map(([c,n])=>[c,cn(c),n])};
+ chipGroup("f-from","from",cnt("from",s=>[s.r.from]));
+ chipGroup("f-to","to",cnt("to",s=>s.r.to));
  chipGroup("f-svc","svc",Object.keys(SVC).map(k=>[k,SVC[k],S.filter(s=>s.svc.includes(k)).length]));
 }
 function filtered(){
@@ -314,12 +324,15 @@ function filtered(){
   (!state.heat.size||state.heat.has(String(s.h)))&&
   (!state.type.size||state.type.has(s.t))&&
   (!state.mk.size||s.m.some(m=>state.mk.has(m)))&&
+  (!state.from.size||(s.r&&state.from.has(s.r.from)))&&
+  (!state.to.size||(s.r&&s.r.to.some(t=>state.to.has(t))))&&
   (!state.svc.size||s.svc.some(v=>state.svc.has(v)))&&
   (!sd||sd.f(s)));
  if(state.sort==="heat")r.sort((a,b)=>b.h-a.h||b.d.localeCompare(a.d));
  if(state.sort==="added")r.sort((a,b)=>b.added.localeCompare(a.added)||b.h-a.h||b.d.localeCompare(a.d));
  if(state.sort==="date")r.sort((a,b)=>b.d.localeCompare(a.d)||b.h-a.h);
  if(state.sort==="name")r.sort((a,b)=>a.c.localeCompare(b.c,"et"));
+ if(state.sort==="route")r.sort((a,b)=>(!!b.r-!!a.r)||((a.r?a.r.from+a.r.to.join():"").localeCompare(b.r?b.r.from+b.r.to.join():""))||b.h-a.h);
  return r;
 }
 function card(s,i){
@@ -328,6 +341,7 @@ function card(s,i){
   <div class="card-top">
    <span class="heat h${s.h}"><i>${dots}</i>${HEAT[s.h]}</span>
    <span class="type">${TYPES[s.t]||s.t}</span>
+   ${s.r?`<span class="route" title="${cn(s.r.from)} → ${s.r.to.map(cn).join(", ")}">${s.r.from} → ${s.r.to.join(", ")}</span>`:""}
    ${s.m.map(m=>`<span class="mk">${m}</span>`).join("")}
    ${s.client?`<span class="client">Meie klient</span>`:""}
    ${isNew(s)?`<span class="new">Uus</span>`:""}
@@ -356,7 +370,7 @@ function copy(el){
  const fallback=()=>{const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);toast("Tekst on valitud, vajuta Cmd/Ctrl+C")};
  try{navigator.clipboard.writeText(txt).then(()=>toast("Avalause kopeeritud"),fallback)}catch(e){fallback()}
 }
-function resetAll(){state.q="";$("q").value="";["heat","type","mk","svc"].forEach(k=>state[k].clear());state.stat=null;render()}
+function resetAll(){state.q="";$("q").value="";["heat","type","mk","svc","from","to"].forEach(k=>state[k].clear());state.stat=null;render()}
 $("q").addEventListener("input",e=>{state.q=e.target.value;render()});
 $("sort").addEventListener("change",e=>{state.sort=e.target.value;render()});
 $("reset").onclick=resetAll;
@@ -365,7 +379,7 @@ async function load(){
  try{
   const r=await fetch("signals.json",{cache:"no-store"});const j=await r.json();
   UPDATED=j.updated||"";
-  S=(j.signals||[]).map(x=>({c:x.company,t:x.type,h:x.heat,m:x.markets||["EE"],d:x.date,added:x.added||x.date,client:!!x.client,what:x.what,why:x.why,svc:x.services||[],src:[x.source.name,x.source.url]}));
+  S=(j.signals||[]).map(x=>({c:x.company,t:x.type,h:x.heat,m:x.markets||["EE"],d:x.date,added:x.added||x.date,client:!!x.client,what:x.what,why:x.why,svc:x.services||[],src:[x.source.name,x.source.url],r:x.route&&x.route.from&&x.route.to?x.route:null}));
   $("upd").textContent=UPDATED?fmt(UPDATED):"–";
  }catch(e){$("feed").innerHTML='<div class="empty">Signaalide faili ei õnnestunud laadida. Värskenda lehte.</div>';return}
  render();

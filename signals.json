@@ -22,6 +22,12 @@
    "source": {
     "name": "CV.ee",
     "url": "https://www.cv.ee/vacancy/1673638"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "FI"
+    ]
    }
   },
   {
@@ -129,6 +135,12 @@
    "source": {
     "name": "CV.ee",
     "url": "https://www.cv.ee/vacancy/1674488"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EE"
+    ]
    }
   },
   {
@@ -151,6 +163,12 @@
    "source": {
     "name": "ERR News",
     "url": "https://news.err.ee/1610182228/estonian-raw-milk-producer-buys-latvia-s-largest-dairy-company"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV"
+    ]
    }
   },
   {
@@ -215,6 +233,12 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/uudised/2026/11/03/sudamekodude-kompanjonid-muusid-abivahendite-ari-rootsi-borsifirmale-taiendab-meie-senist-haaret-eestis"
+   },
+   "route": {
+    "from": "SE",
+    "to": [
+     "EE"
+    ]
    }
   },
   {
@@ -237,6 +261,12 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/uudised/2026/11/02/baltic-workboats-ehitab-taanile-40-miljoni-eest-viis-laeva"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "DK"
+    ]
    }
   },
   {
@@ -301,6 +331,12 @@
    "source": {
     "name": "CV.ee",
     "url": "https://www.cv.ee/vacancy/1676596"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EE"
+    ]
    }
   },
   {
@@ -970,6 +1006,14 @@
    "source": {
     "name": "CV.ee",
     "url": "https://www.cv.ee/vacancy/1666272"
+   },
+   "route": {
+    "from": "FI",
+    "to": [
+     "EE",
+     "LV",
+     "LT"
+    ]
    }
   },
   {
@@ -993,6 +1037,12 @@
    "source": {
     "name": "CV.ee",
     "url": "https://www.cv.ee/vacancy/1675118"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE"
+    ]
    }
   },
   {
@@ -1015,6 +1065,12 @@
    "source": {
     "name": "CV.ee",
     "url": "https://www.cv.ee/vacancy/1670748"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "FI"
+    ]
    }
   },
   {
@@ -1437,6 +1493,12 @@
    "source": {
     "name": "CV.lv",
     "url": "https://www.cv.lv/lv/vacancy/1671258"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV"
+    ]
    }
   },
   {
@@ -1460,6 +1522,12 @@
    "source": {
     "name": "CVonline.lt",
     "url": "https://www.cvonline.lt/lt/vacancy/1666488"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LT"
+    ]
    }
   },
   {
@@ -1482,6 +1550,12 @@
    "source": {
     "name": "CVonline.lt",
     "url": "https://www.cvonline.lt/lt/vacancy/1668799"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LT"
+    ]
    }
   },
   {
@@ -1504,6 +1578,12 @@
    "source": {
     "name": "CV.lv",
     "url": "https://www.cv.lv/lv/vacancy/1671403"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV"
+    ]
    }
   },
   {
@@ -1526,6 +1606,12 @@
    "source": {
     "name": "CV.lv",
     "url": "https://www.cv.lv/lv/vacancy/1676702"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV"
+    ]
    }
   },
   {
@@ -1572,6 +1658,12 @@
    "source": {
     "name": "CV.lv",
     "url": "https://www.cv.lv/lv/vacancy/1670286"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV"
+    ]
    }
   },
   {
@@ -1595,6 +1687,12 @@
    "source": {
     "name": "CV.lv",
     "url": "https://www.cv.lv/lv/vacancy/1676189"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE"
+    ]
    }
   },
   {
@@ -1617,6 +1715,12 @@
    "source": {
     "name": "Duunitori",
     "url": "https://duunitori.fi/tyopaikat/tyo/ai-growth-consultantmyynti-genlioio-sdsuu-20693104"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "FI"
+    ]
    }
   },
   {
@@ -1639,6 +1743,12 @@
    "source": {
     "name": "Duunitori",
     "url": "https://duunitori.fi/tyopaikat/tyo/senior-accountant-finnish-entity-oy-mfx-ssske-20619239"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "FI"
+    ]
    }
   },
   {
@@ -1661,6 +1771,12 @@
    "source": {
     "name": "Platsbanken",
     "url": "https://arbetsformedlingen.se/platsbanken/annonser/31415936"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "SE"
+    ]
    }
   },
   {
@@ -1683,6 +1799,12 @@
    "source": {
     "name": "Platsbanken",
     "url": "https://arbetsformedlingen.se/platsbanken/annonser/31627019"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "SE"
+    ]
    }
   },
   {
@@ -1828,7 +1950,13 @@
     "url": "https://www.cvonline.lt/lt/vacancy/1677636"
    },
    "added": "2026-11-06",
-   "client": false
+   "client": false,
+   "route": {
+    "from": "EE",
+    "to": [
+     "LT"
+    ]
+   }
   },
   {
    "company": "GPK SIA (Global Peat)",
@@ -1852,7 +1980,14 @@
     "url": "https://www.cv.lv/lv/vacancy/1677778"
    },
    "added": "2026-11-06",
-   "client": false
+   "client": false,
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE",
+     "LT"
+    ]
+   }
   },
   {
    "company": "Kompressorikeskus",
@@ -1896,7 +2031,13 @@
     "url": "https://www.cv.ee/vacancy/1677816"
    },
    "added": "2026-11-06",
-   "client": false
+   "client": false,
+   "route": {
+    "from": "EE",
+    "to": [
+     "FI"
+    ]
+   }
   },
   {
    "company": "A. Le Coq",
@@ -1939,7 +2080,13 @@
     "url": "https://www.aripaev.ee/uudised/2026/11/06/suutsime-raskest-olukorrast-valja-tulla-majatootja-leidis-tee-saksamaale-ja-mitmekordistas-kaivet"
    },
    "added": "2026-11-06",
-   "client": false
+   "client": false,
+   "route": {
+    "from": "EE",
+    "to": [
+     "DE"
+    ]
+   }
   },
   {
    "company": "Stargate Hydrogen",
@@ -2049,7 +2196,14 @@
     "url": "https://www.cv.ee/vacancy/1678177"
    },
    "added": "2026-11-09",
-   "client": false
+   "client": false,
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV",
+     "LT"
+    ]
+   }
   },
   {
    "company": "GARAM Elektronik AB",
@@ -2117,7 +2271,13 @@
     "url": "https://www.err.ee/1610189908/eesti-kinnisvaraarendaja-ehitab-riia-jalgpallistaadioni-asemele-uue-linnaosa"
    },
    "added": "2026-11-09",
-   "client": false
+   "client": false,
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV"
+    ]
+   }
   },
   {
    "company": "Interim & Partnerid",
@@ -2185,7 +2345,14 @@
     "url": "https://majandus.postimees.ee/8579417/esmaspaeval-laheb-suureks-osturalliks-e-smaspaev-laieneb-kolme-riiki"
    },
    "added": "2026-11-09",
-   "client": false
+   "client": false,
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV",
+     "LT"
+    ]
+   }
   },
   {
    "company": "Raamatupidamisbürood ja -tarkvara pakkujad",
@@ -2274,6 +2441,12 @@
    "source": {
     "name": "Delfi Ärileht",
     "url": "https://arileht.delfi.ee/artikkel/120622950/infortariga-tehingu-teinud-suurinvestor-otsib-eestis-uusi-voimalusi"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LT"
+    ]
    }
   },
   {
@@ -2317,6 +2490,12 @@
    "source": {
     "name": "CV.lv",
     "url": "https://www.cv.lv/lv/vacancy/1678583"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "LV"
+    ]
    }
   },
   {
@@ -2341,6 +2520,13 @@
    "source": {
     "name": "CV.lv",
     "url": "https://www.cv.lv/lv/vacancy/1678805"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE",
+     "LT"
+    ]
    }
   },
   {
@@ -2432,6 +2618,13 @@
    "source": {
     "name": "ERR",
     "url": "https://www.err.ee/1610190973/eesti-eksporti-veavad-soome-ja-rootsi-majanduse-kasv"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "FI",
+     "SE"
+    ]
    }
   },
   {
@@ -2588,6 +2781,13 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/top/2026/10/31/soitjateveo-top-voitja-kasvatas-muugitulu-turgi-busside-esindamise-arvel"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV",
+     "LT"
+    ]
    }
   },
   {
@@ -2611,6 +2811,12 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/uudised/2026/10/30/leedu-tatrakuningad-ostavad-eesti-tangumuuja-baltixi"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EE"
+    ]
    }
   },
   {
@@ -2656,6 +2862,12 @@
    "source": {
     "name": "CV.ee",
     "url": "https://www.cv.ee/vacancy/1679145"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EE"
+    ]
    }
   },
   {
@@ -2746,6 +2958,12 @@
    "source": {
     "name": "LinkedIn",
     "url": "https://www.linkedin.com/jobs/view/4460978236"
+   },
+   "route": {
+    "from": "DK",
+    "to": [
+     "EE"
+    ]
    }
   },
   {
@@ -2973,6 +3191,12 @@
    "source": {
     "name": "Upwork",
     "url": "https://www.upwork.com/jobs/~022119453346544545540"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "PL"
+    ]
    }
   },
   {
@@ -3018,6 +3242,366 @@
    "source": {
     "name": "Upwork",
     "url": "https://www.upwork.com/jobs/~022114804922365319198"
+   }
+  },
+  {
+   "company": "SIA Priežavoti (Läti)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Läti puidu- ja ehitusmaterjalide firma otsib B2B ja ekspordijuhti. Ülesanne on aktiivselt leida uusi B2B kliente Lätis ja eksporditurgudel ning avada uusi eksporditurge.",
+   "why": "Firma ütleb otse, et vajab uusi välisturge ja kliente. Fontakt saab pakkuda Eesti, Soome ja Rootsi ehitusmaterjalide ostjate andmebaasi ja kohtumisi.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1658758"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "SIA polarstar.lv (Läti)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LV",
+    "SE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Valgusreklaamide tootja laiendab tegevust Skandinaavias ja otsib Skandinaavia turu ekspordiprojektide juhti. Töö sisaldab uute klientide otsimist ja pöördumist.",
+   "why": "Läti tootja siseneb Skandinaaviasse ja vajab sealt uusi kliente. Fontakti Rootsi kõned ja andmebaas aitavad esimesed kohtumised kiiresti kokku leppida.",
+   "services": [
+    "eks",
+    "tel",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1676104"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "SE",
+     "NO",
+     "DK"
+    ]
+   }
+  },
+  {
+   "company": "AFINE Nutricosmetics (DORENA)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-05",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Läti toidulisandite tootja ja DORENA brändi arendaja otsib ekspordijuhti, kelle ülesanne on leida uusi välismaiseid B2B kliente, edasimüüjaid ja hulgimüüjaid.",
+   "why": "Firma otsib otse uusi edasimüüjaid välisturgudel. Fontakt saab leida Eesti, Soome ja Rootsi apteekide ning hulgimüüjate otsustajad ja kohtumised kokku leppida.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4485820781"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "RIX Freight SIA (Läti)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "SE"
+   ],
+   "date": "2026-11-06",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Balti riikide ja Lääne-Euroopa kaubaveofirma otsib rootsi keele oskusega müügiesindajat. Firma kasvab kiiresti ja kolib suurematesse ruumidesse.",
+   "why": "Läti logistikafirma otsib Rootsi kliente. Fontakti rootsikeelsed kõned saavad Rootsi saatjatega kohtumisi kokku leppida.",
+   "services": [
+    "eks",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1675476"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "SE"
+    ]
+   }
+  },
+  {
+   "company": "Nordic Beverage SIA (Läti)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-05",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Baltikumi suurim premium craft-alkoholi hulgimüüja varustab Läti, Leedu ja Eesti turgu ning otsib suurklientide juhti. Portfellis on üle 1000 toote.",
+   "why": "Kiiresti kasvav hulgimüüja vajab Eestis uusi HoReCa ja jaemüügi kliente. Fontakt saab Eesti restoranide ja poodidega kohtumisi kokku leppida.",
+   "services": [
+    "tel",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1675059"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE",
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "VG Kvadra Pak AS (Läti)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "EE",
+    "LT",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Läti pakendifirma otsib kliendidiilide juhti Baltikumi ja Põhja-Euroopa suunale.",
+   "why": "Pakendite müük tootjatele Eestis ja Põhjamaades vajab uusi kontakte. Fontakt saab tootmisettevõtete andmebaasi ja kohtumistega aidata.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1678569"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE",
+     "LT",
+     "FI",
+     "SE"
+    ]
+   }
+  },
+  {
+   "company": "NARBUTAS (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT",
+    "LV",
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Leedu kontorimööbli tootja (1700 töötajat, tooted üle 60 riigis) otsib Balti riikide turumüügi juhti.",
+   "why": "Firma tahab Baltikumis müüki kasvatada. Fontakt saab Eesti ja Läti büroode, arendajate ja sisearhitektidega kohtumisi kokku leppida.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4489107272"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "LV",
+     "EE"
+    ]
+   }
+  },
+  {
+   "company": "RETAL (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-03",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Pakenditootja RETAL otsib müügijuhti, kes arendaks rahvusvahelisi partnerlusi ja hakkaks tulevikus vastutama regiooni äri eest.",
+   "why": "Leedu tootja kasvatab rahvusvahelist müüki. Eksporditeenus ja tootjate andmebaas aitavad Eestis ja Põhjamaades uusi kliente leida.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1676813"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Swedish Lorry Parts",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "SE",
+    "FI",
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Rootsi veoautode varuosade firma otsib tehnilist piirkonnamüügijuhti Põhjamaade ja Baltikumi turule, et arendada pikaajalist äri edasimüüjatega.",
+   "why": "Rootsi firma tahab Baltikumis edasimüüjaid juurde. Fontakt saab Eesti, Läti ja Leedu varuosamüüjate andmebaasi ja kohtumistega aidata.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Platsbanken",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31701925"
+   },
+   "route": {
+    "from": "SE",
+    "to": [
+     "FI",
+     "EE",
+     "LV",
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "Tebi",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Adyeni kaasasutaja asutatud restoranide halduse platvorm Tebi (50 miljonit eurot rahastust) otsib Helsingisse Account Executive'i Soome restoranide jaoks.",
+   "why": "Uue turu kasv sõltub restoranide kohtumistest. Fontakti soomekeelne presales saab Soome restoranidega demosid kokku leppida.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4486459599"
+   },
+   "route": {
+    "from": "NL",
+    "to": [
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "Hot Screen (Rootsi)",
+   "type": "exp",
+   "heat": 1,
+   "markets": [
+    "SE",
+    "FI"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Rootsi firma Hot Screen otsib soome keelt rääkivat müüjat, kes vastutaks klientide eest ja arendaks koostööd.",
+   "why": "Rootsi firma kasvatab Soome müüki. Fontakti soomekeelsed kõned aitavad uusi Soome kliente leida.",
+   "services": [
+    "eks",
+    "tel"
+   ],
+   "source": {
+    "name": "Platsbanken",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31672600"
+   },
+   "route": {
+    "from": "SE",
+    "to": [
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "KOMFOVENT",
+   "type": "exp",
+   "heat": 1,
+   "markets": [
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-06",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Ventilatsioonisüsteemide tootja, kelle tehased on Lätis ja Leedus, otsib saksa keele oskusega ekspordispetsialisti.",
+   "why": "Tootja laiendab eksporti. Kui sihtturgude seas on ka Põhjamaad, saab Fontakt aidata edasimüüjate leidmisel.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1677966"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "DE"
+    ]
    }
   }
  ]
