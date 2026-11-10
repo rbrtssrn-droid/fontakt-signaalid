@@ -2952,6 +2952,73 @@
     "name": "LinkedIn",
     "url": "https://www.linkedin.com/jobs/view/4487230689"
    }
+  },
+  {
+   "company": "Blago OÜ",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-08",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Eesti tekstiiliringluse firma otsib Upworkis külmhelistajat, kes helistaks Poola tekstiilitehastele, sorteerimiskeskustele ja tööstuspesulatele ning jõuaks otsustajani.",
+   "why": "Firma ostab väljast sisse just seda teenust, mida Fontakt pakub: B2B külmkõned ja otsustajate kontaktid välisturul. Ära oota pakkumiskonkurssi, helista neile otse.",
+   "services": [
+    "tel",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022119453346544545540"
+   }
+  },
+  {
+   "company": "Alfredium",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-09",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "E-poodidele AI-klienditeenindust pakkuv Alfredium otsib Upworkis Põhjamaade müügi- ja kasvupartnerit. Toode töötab juba päris klientidel, puudu on inimene, kes selle turule viib.",
+   "why": "Firma vajab otse kedagi, kes leiaks Põhjamaade e-poed ja tooks kohtumisi. Fontakti Soome ja Rootsi kõned ning andmebaas sobivad täpselt.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022119852934902725721"
+   }
+  },
+  {
+   "company": "Taksotarkvara pakkuja (nimi Upworkis avaldamata)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "SE"
+   ],
+   "date": "2026-10-27",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Taksode broneerimistarkvara firma otsib Upworkis rootsi keelt rääkivat inimest, kes võtaks ühendust Rootsi taksofirmade otsustajatega ja lepiks kokku kohtumisi.",
+   "why": "Klient ostab sisse kohtumiste kokkuleppimist Rootsis. Firma nimi selgub Upworkis pakkumise tegemisel, seega saab Fontakt sinna otse pakkumise teha.",
+   "services": [
+    "pre",
+    "tel",
+    "eks"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022114804922365319198"
+   }
   }
  ]
 }
