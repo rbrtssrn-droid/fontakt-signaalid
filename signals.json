@@ -2454,6 +2454,253 @@
     "name": "ERR",
     "url": "https://www.err.ee/1610190088/uus-pakendiseadus-palvib-tootjatelt-nii-kiitust-kui-ka-kriitikat"
    }
+  },
+  {
+   "company": "Lindström OÜ",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-06",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Tekstiiliteenuste firma otsib Lääne- ja Ida-Virumaale B2B müügiesindajat, kelle põhitöö on uute äriklientide leidmine. Kuulutuses on nõutud külmkõnede tegemise oskus ja töö CRM-is.",
+   "why": "Firma ütleb otse, et vajab uusi ärikliente ja külmkõnesid. Fontakt saab piirkonna firmade andmebaasi ja kõnedega kohtumisi ette valmistada kohe, kuni uus inimene alles alustab.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675760"
+   }
+  },
+  {
+   "company": "MuRay",
+   "type": "deal",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-29",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Metallkomponentide kvaliteedikontrolli tehnoloogiat arendav MuRay kaasas esimeses suuremas investeerimisringis 7 miljonit eurot. Fookuses on eksport.",
+   "why": "Värske raha tähendab survet kiiresti tööstusklientideni jõuda. Fontakt saab koostada metallitööstuse otsustajate andmebaasi ja leppida kokku kohtumisi Eestis ja ekspordis.",
+   "services": [
+    "eks",
+    "db",
+    "pre",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/10/29/eesti-tehnoloogiafirma-kaasas-7-miljonit"
+   }
+  },
+  {
+   "company": "Kiwa Estonia OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-29",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Rahvusvahelise testimis-, inspekteerimis- ja sertifitseerimisgrupi Eesti üksus otsib tehniliste teenuste müügijuhti. Kliendid on tootmis- ja teenindusettevõtted ning avalik sektor.",
+   "why": "Tehniliste B2B teenuste müük vajab pidevalt uusi kohtumisi tööstuse ja ehituse otsustajatega. Presales aitab uuel müügijuhil kohe kalendrit täita.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675101"
+   }
+  },
+  {
+   "company": "Pintaväri Eesti OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Kere- ja värvitöökodade varustaja otsib müügiesindajat, kelle ülesanne on leida uusi ärikliente. Firma on paigaldanud üle 40 värvikambri Eesti töökodadesse.",
+   "why": "Sihtrühm on selgelt piiritletud: autoremondi- ja värvitöökojad üle Eesti. Fontakt saab sellest andmebaasi teha ja kõnedega kohtumisi kokku leppida.",
+   "services": [
+    "db",
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1676038"
+   }
+  },
+  {
+   "company": "Pharmapark Production OÜ",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-02",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Veterinaarravimite tootja käivitas Tallinnas 50 miljoni euroga rajatud tehase. Tegevjuhi sõnul toodab tehas nelja tunniga Eesti aastase vajaduse.",
+   "why": "Nii suur tootmisvõimsus tähendab, et suurem osa toodangust tuleb müüa ekspordis. Fontakt saab aidata leida edasimüüjaid ja kliente Põhjamaades ja Baltikumis.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/suur-lugu/2026/11/02/50-miljoniga-rajatud-tallinna-tehases-valmib-eesti-aastane-vajadus-nelja-tunniga-nii-suurt-pole-ma-varem-ehitanud"
+   }
+  },
+  {
+   "company": "Taisto Bussid",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-10-31",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Tellimusvedusid pakkuv ja Baltimaades Türgi bussitootjat Temsa esindav Taisto Bussid võitis Sõitjateveo TOPi. Müügitulu kasvas Temsa busside esindamise arvel.",
+   "why": "Busside müük on klassikaline B2B müük veofirmadele ja omavalitsuste vedajatele kolmes riigis. Fontakt saab sihtrühma andmebaasi ja kohtumistega aidata.",
+   "services": [
+    "db",
+    "pre",
+    "eks"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/top/2026/10/31/soitjateveo-top-voitja-kasvatas-muugitulu-turgi-busside-esindamise-arvel"
+   }
+  },
+  {
+   "company": "Galinta (Leedu) ja Worldline OÜ",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Leedu tatratootja Galinta sõlmis lepingu Eesti tangumüüja Worldline OÜ (Baltix) kõigi aktsiate omandamiseks.",
+   "why": "Ülevõtmise järel tuleb kahe firma müük ja kliendiandmed ühendada. See on hea hetk pakkuda ühtset CRM-i ja Eesti kaubanduskettide ning HoReCa müügitoetust.",
+   "services": [
+    "crm",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/10/30/leedu-tatrakuningad-ostavad-eesti-tangumuuja-baltixi"
+   }
+  },
+  {
+   "company": "Merit Tarkvara",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-27",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Merit Tarkvara tegevjuht räägib Äripäeva sisuturundusartiklis, et Eesti ettevõtted kulutavad aastas umbes 200 miljonit eurot raamatupidamise käsitööle, mida saaks automatiseerida.",
+   "why": "Raamatupidamistarkvara müüakse tuhandetele väikeettevõtetele ja firma investeerib juba turundusse. Kõnekampaania väikeettevõtetele on artikli loomulik jätk, eriti praegu, kui TSD uus kord tekitab segadust.",
+   "services": [
+    "tel",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/10/27/eesti-on-digiriik-kuid-ettevotted-kulutavad-aastas-200-miljonit-eurot-tarbetule-kasitoole"
+   }
+  },
+  {
+   "company": "Nordin Group (Leedu)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-10",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Pergolate ja premium välialade lahenduste tootja otsib Eestisse müügiesindajat, kes ehitaks kohaliku turu uuesti üles. Esialgu on fookus eraklientidel ja turunduse kaudu tulevatel päringutel.",
+   "why": "Välisfirma taasavab Eesti turgu ühe inimesega. Fontakt saab lisada B2B kanali, näiteks arhitektid, kinnisvaraarendajad ja HoReCa, ning tuua sealt kohtumisi.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1679145"
+   }
+  },
+  {
+   "company": "Incap Estonia",
+   "type": "exp",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-10-29",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Saaremaal tegutseva elektroonikatootja Incap Estonia emafirma kasvatas kolmandas kvartalis käivet 56 protsenti, rekordilise 80,7 miljoni euroni.",
+   "why": "Lepingutootja kasvab kiiresti ja otsib uusi tööstuskliente. Eksporditeenus ja andmebaas aitavad leida uusi tellijaid Põhjamaades.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/borsiuudised/2026/10/29/incapi-kolmanda-kvartali-kaive-kasvas-56-protsenti"
+   }
+  },
+  {
+   "company": "Newsec Baltic",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-10-30",
+   "added": "2026-11-10",
+   "client": false,
+   "what": "Newsec Baltic tutvustas Äripäeva sisuturundusartiklis oma sügisväljavaadet. Balti ärikinnisvara turg liigub tänavu rekordi suunas ja välisinvestorite asemel ostab kohalik kapital.",
+   "why": "Ärikinnisvara konsultant otsib aktiivselt investoreid ja ärikliente kolmes riigis. Fontakt saab koostada kinnisvaraomanike ja investorite andmebaasi ning kohtumisi kokku leppida.",
+   "services": [
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/10/30/balti-kinnisvaraturg-tuurib-rekordi-suunas-valisraha-lahkumise-kiuste"
+   }
   }
  ]
 }
