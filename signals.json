@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -4023,6 +4023,635 @@
     "url": "https://www.aripaev.ee/sisuturundus/2026/11/11/hea-turvasusteem-on-meeletult-igav-mida-see-ettevotte-jaoks-tahendab"
    },
    "added": "2026-11-11"
+  },
+  {
+   "company": "Liv Outdoor",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "FI",
+    "SE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-11",
+   "what": "Premium-välimööbli brändi Couture Jardin ametlik edasimüüja Euroopas otsib ekspordi müügijuhti. Ülesanne on leida Euroopa turgudel uusi edasimüüjaid ja B2B partnereid, nt mööblisalonge, sisustusfirmasid, arhitekte ja HoReCa ettevõtteid.",
+   "why": "Eesti firma avab uusi eksporditurge ja vajab uute edasimüüjate leidmist. Fontakt saab tuua kohtumisi Soome, Rootsi ja Balti mööblisalongide ning sisearhitektidega.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1676652"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "EX"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Nevotex (Southwestern Recruitmenti klient)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-11",
+   "what": "Southwestern Recruitment otsib Nevotexile Tallinnasse B2B müügiesindajat. Kuulutuse märksõnad on müük ja B2B.",
+   "why": "Firma kasvatab B2B müüki ja palkab uue müüja. Fontakt saab anda talle esimestel kuudel kohtumisi ja sihtnimekirja.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1680325"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Led House OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-11",
+   "what": "Valgustite ja valgustuslahenduste müüja otsib müügispetsialisti. Ülesannete hulgas on uute klientide leidmine ning suhtlus klientidega telefoni, e-kirja ja kohtumiste kaudu.",
+   "why": "Firma tahab uusi kliente, sh ehitus- ja sisustusfirmasid. Fontakt saab helistada arendajatele ja ehitusfirmadele ning leppida kokku kohtumisi.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1679823"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Connecto Latvija SIA (Läti)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LV",
+    "SE"
+   ],
+   "date": "2026-11-11",
+   "what": "Energeetika ja elektritaristu ettevõte otsib äriarendusjuhti, kelle põhiülesanne on uute B2B klientide leidmine. Töö hõlmab regulaarseid reise Euroopa ja Skandinaavia riikidesse klientidega kohtumiseks.",
+   "why": "Läti firma otsib uusi kliente Skandinaaviast ja Euroopast. Fontakt saab leppida kokku kohtumisi Rootsi ja Soome energeetika- ja ehitusfirmadega enne juhi reise.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1680151"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "SE",
+     "NO",
+     "DK",
+     "EX"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Brain Box SIA / Karl Kings (Läti)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-11",
+   "what": "Ekspordiettevõte müüb tootmisseadmete varuosi ja otsib müügijuhti. Ülesanne on aktiivne müük ja uute välisklientide leidmine e-posti ja telefoni teel.",
+   "why": "Firma müüb ainult eksporti ja vajab pidevalt uusi tootjaid kliendiks. Fontakt saab anda Eesti, Soome ja Rootsi tootmisfirmade andmebaasi ja helistada neile.",
+   "services": [
+    "eks",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1680077"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EX"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Guru Distribution Ltd (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-11",
+   "what": "Spordi- ja tööstuskaupade edasimüüja otsib B2B müügi ja brändi arendamise juhti, kes arendab portfelli müüki Baltikumis ja leiab aktiivselt uusi kliente. Töös kasutatakse CRM-süsteemi.",
+   "why": "Firma kasvatab müüki üle Baltikumi. Fontakt saab tuua Eesti ja Leedu klientidega kohtumisi ning pakkuda oma CRM-i.",
+   "services": [
+    "pre",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1679871"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE",
+     "LT"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Green Distribution SIA (Läti)",
+   "type": "exp",
+   "heat": 1,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-10",
+   "what": "Joogitootja otsib brändijuhti, kelle ülesanne on viia bränd rahvusvahelistele turgudele, kasvatada eksporti ja leida uusi välismaiseid edasimüüjaid.",
+   "why": "Firma otsib uusi eksporditurge ja edasimüüjaid. Fontakt saab leida Eesti ja Soome joogimüüjad ja leppida kokku kohtumised.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1679454"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EX"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Profymarket (IT Campi kaudu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-11",
+   "what": "AI-põhine B2B SaaS ehitushangete platvorm otsib täistsükli Account Executive'i, kes teeb demosid tegevjuhtidele ja hankejuhtidele ning viib piloodid aastalepinguteni.",
+   "why": "Idufirma müüb ehitusfirmadele ja arendajatele ning vajab demosid. Fontakt saab leppida kokku demod Balti ja Soome peatöövõtjatega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1680020"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "LATROOF LTD (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-12",
+   "what": "Katusekatete ja ehitusmaterjalide hulgimüüja, Euroopa tootjate ametlik esindaja, otsib aktiivse müügi juhti ja arendab oma kliendibaasi.",
+   "why": "Firma tahab uusi ehitusfirmadest kliente. Fontakt saab helistada ehitusfirmadele ja katusepaigaldajatele ning anda müüjale kohtumisi.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1672223"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "TOPCOLOR (Leedu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-11",
+   "what": "Balti regiooni juhtiv värvide, krundi ja krohvi tootja otsib CV-Online kaudu aktiivse müügi vadybininkat.",
+   "why": "Tootja kasvatab aktiivset müüki. Fontakt saab pakkuda Leedu ja Eesti ehitusfirmade andmebaasi ning kohtumiste kokkuleppimist.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1679408"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "TestDevLab (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-10",
+   "what": "Lätist pärit tarkvara testimise firma, kellel on kümme kontorit Euroopas ja üle 500 töötaja, otsib Riiga või Vilniusse Chief Growth Officerit.",
+   "why": "Uus kasvujuht ehitab müügimootorit. Fontakt saab tuua kohtumisi Põhjamaade ja Balti tarkvarafirmadega.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1674199"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Okredo UAB (Leedu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-11",
+   "what": "Ettevõtete krediidiinfo teenus otsib telefonimüüjat, kes helistab potentsiaalsetele B2B klientidele ja ei karda külmkõnesid. Kontaktibaasi annab firma.",
+   "why": "Firma müüb B2B teenust külmkõnedega. Fontakt saab lisada helistamismahtu ja andmebaase, kui firma tahab laieneda Lätti või Eestisse.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1677335"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Zaylo Freight Hub",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV"
+   ],
+   "date": "2026-11-10",
+   "what": "Tallinnas loodud logistikaplatvorm, mida kasutab kuus firmat Eestist, Lätist ja Poolast, laieneb Poolasse. Firma otsib B2B müüjat, kes võtab nimekirja järgi ühendust ekspedeerimis- ja transpordifirmadega.",
+   "why": "Eesti idufirma kasvab külmkontaktidega. Fontakt saab teha sama tööd Läti, Leedu ja Soome logistikafirmadega.",
+   "services": [
+    "tel",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487490520"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "PL"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Rickman Trade (Tripodi kaudu, Läti)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "LV",
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-11",
+   "what": "JURA, Blendteci jt brändide ainuedasimüüja Baltikumis plaanib käibe kahekordistada ja otsib Baltikumi võtmekliendijuhti. Ülesanne on leida uusi kliente kontoritest, HoReCast ja B2B sektorist.",
+   "why": "Firma tahab kiiresti uusi B2B kliente kõigis kolmes Balti riigis. Fontakt saab leppida kokku kohtumisi Eesti kontorite ja HoReCa ettevõtetega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488221721"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE",
+     "LT"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Adcash",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-09",
+   "what": "Eesti reklaamivõrgustik otsib Client Acquisition Manageri, kes keskendub ainult uutele klientidele: otsib reklaamijaid ja agentuure, peab läbirääkimisi ja sõlmib tehinguid.",
+   "why": "Firma vajab pidevalt uute klientide voogu. Fontakt saab leppida kokku kohtumisi reklaamijate ja agentuuridega.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487160279"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "HSH Chemie (Saksamaa)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "LT",
+    "EE"
+   ],
+   "date": "2026-11-11",
+   "what": "Hamburgis asuv keemia toorainete hulgimüüja otsib Riiga müügijuhti, kes arendab ehituskeemia äri Lätis, Leedus ja Eestis ning loob uusi kliendisuhteid.",
+   "why": "Välisfirma kasvatab Balti turgu ja vajab uusi tootjatest kliente. Fontakt saab anda Eesti ehitusmaterjalide tootjate nimekirja ja kohtumisi.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4489048399"
+   },
+   "route": {
+    "from": "DE",
+    "to": [
+     "LV",
+     "LT",
+     "EE"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Flanco (HEMES kaudu, Leedu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT",
+    "LV",
+    "EE"
+   ],
+   "date": "2026-11-11",
+   "what": "Töökoha kogemuse SaaS platvorm otsib äriarendusjuhti, kes müüb lahendust esmalt Leedus ja hiljem üle Baltikumi. Sihtrühm on HR-, haldus- ja operatsioonijuhid.",
+   "why": "Firma kasvatab müügitiimi ja plaanib Balti laienemist. Fontakt saab leppida kokku demod Eesti ja Läti suurte kontoritega.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488663872"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "LV",
+     "EE"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Juodeliai UAB (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-09",
+   "what": "Kaunase ettevõte laiendab meeskonda ja otsib rahvusvahelise müügi meeskonna juhti, kes loob piirkondade müügistrateegia ja rahvusvahelise laienemise visiooni ning otsib uusi kliente.",
+   "why": "Firma ehitab välismüüki. Fontakt saab avada Eesti ja Soome turgu kohtumiste ja andmebaasidega.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487946040"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "TMV Capital (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-09",
+   "what": "Kaunase ettevõte otsib Euroopa osakonna müügijuhti, kes juhib Euroopa müügitiimi, arendab müüki Euroopa turgudel ja leiab uusi kliente.",
+   "why": "Firma kasvatab müüki Euroopas. Fontakt saab tuua kohtumisi Eesti, Soome ja Rootsi klientidega.",
+   "services": [
+    "eks",
+    "pre"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487666294"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Finbee (Leedu)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LT",
+    "LV",
+    "EE"
+   ],
+   "date": "2026-11-11",
+   "what": "Leedu suurim P2P laenuplatvorm sai sel aastal investeeringu Tesonetilt ja otsib rahvusvahelise laienemise juhti, kes koostab välisturgude strateegia ja leiab partnereid.",
+   "why": "Värske investeeringuga fintech läheb uutele turgudele. Fontakt saab aidata leida partnereid ja ärikliente Lätis ja Eestis.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488204733"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "VLI Timber (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-09",
+   "what": "Üks Baltikumi suurimaid kuivatatud küttepuude tootjaid ekspordib ligi 20 Euroopa riiki, 2025. a käive oli 22,9 mln eurot. Firma otsib kliendijuhti, kes leiab uusi suuri kliente Lääne-Euroopas.",
+   "why": "Eksportiv tootja otsib uusi suuri ostjaid. Fontakt saab helistada Soome ja Rootsi küttepuude edasimüüjatele ja ketitele.",
+   "services": [
+    "eks",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487151133"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Verdikts (Läti)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-09",
+   "what": "Võlgade sissenõudmise ja õigusteenuste firma, mis töötab peamiselt B2B segmendis, laiendab meeskonda ja otsib müügijuhti.",
+   "why": "Firma müüb ettevõtetele ja kasvatab müügitiimi. Fontakt saab leppida kokku kohtumisi finantsjuhtidega.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487188278"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "SDSLibrary",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "SE"
+   ],
+   "date": "2026-11-11",
+   "what": "Ohutuskaartide ja kemikaalidokumentatsiooni teenus otsib Rootsi turule B2B kohtumiste kokkuleppijat, kes helistab külmkontaktidele ja broneerib kohtumisi otsustajatega.",
+   "why": "Firma ostab kohtumiste kokkuleppimist Rootsis sisse. See on Fontakti presales teenuse otsene vajadus.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022120449901281885523"
+   },
+   "client": false,
+   "added": "2026-11-12"
+  },
+  {
+   "company": "Orien Trade OÜ",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "SE",
+    "FI",
+    "EE"
+   ],
+   "date": "2026-11-11",
+   "what": "Aasia ilutoodete hulgimüüja, kellel on kümme Euroopa filiaali, otsib Experise kaudu Rootsi müügijuhti, kes juhib müüki ja äriarendust Rootsis ning kiirendab kasvu piirkonnas.",
+   "why": "Eestis registreeritud firma kasvatab Rootsi turgu. Fontakt saab leppida kokku kohtumisi Rootsi ja Soome ilutoodete jaemüüjate ja apteekidega.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Duunitori",
+    "url": "https://duunitori.fi/tyopaikat/tyo/head-of-sales-sweden-orien-trade-ou-sesxp-20723431"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "SE"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-12"
   }
  ]
 }
