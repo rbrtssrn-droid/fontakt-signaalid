@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -4652,6 +4652,414 @@
    },
    "client": false,
    "added": "2026-11-12"
+  },
+  {
+   "company": "Hybrid Greentech (Taani)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "LV",
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-12",
+   "what": "Energiasalvestuse lahenduste firma otsib Riiga Baltikumi juhti (Head of Baltics).",
+   "why": "Uus riigijuht tähendab, et firma ehitab Baltikumis kliendibaasi nullist. Fontakt saab leppida kokku kohtumisi energia-, tööstus- ja kinnisvaraettevõtetega kõigis kolmes riigis.",
+   "services": [
+    "pre",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4489204296"
+   },
+   "route": {
+    "from": "DK",
+    "to": [
+     "LV",
+     "EE",
+     "LT"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "1stopVAT (Leedu)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-12",
+   "what": "Käibemaksuteenuste firma otsib korraga SDR-i, kes helistab ja kirjutab e-poodidele, SaaS-firmadele ja turuplatsidele ning broneerib müügijuhtidele kohtumisi, ja müügijuhti, kes teeb ka ise outbound-müüki.",
+   "why": "Firma ehitab üles outbound-müüki ja kohtumiste broneerimist. Fontakt saab pakkuda kohtumiste kokkuleppimist ja e-kaupmeeste andmebaasi Baltikumis ja Põhjamaades.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1672431"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "UNITY Logistics Scandinavia",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-11",
+   "what": "Skandinaavia ekspedeerimisfirma laiendab tegevust Leedus ja otsib COO-d, kes kasvatab Baltikumi ekspedeerimisäri, ehitab kohaliku meeskonna ja laiendab kliendibaasi.",
+   "why": "Uus üksus vajab kiiresti esimesi ärikliente. Fontakt saab leppida kokku kohtumisi tootjate ja kaubandusettevõtete logistikajuhtidega Leedus ja teistes Balti riikides.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1679754"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "UAB Narvija (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-12",
+   "what": "Leedu firma otsib Riiga äriarendusjuhti, kes arendab Klüber Lubricationi määrdeainete müüki.",
+   "why": "Leedu edasimüüja kasvatab Läti turgu. Fontakt saab leppida kokku kohtumisi Läti tootmis- ja hooldusettevõtetega.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488291327"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "LV"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Terekas UAB (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT",
+    "LV",
+    "EE",
+    "SE"
+   ],
+   "date": "2026-11-05",
+   "what": "PET-toorikute ja PET-pudelite tootja otsib müügijuhti, kes leiab uusi B2B kliente ning külastab kliente Leedus, Baltikumis ja Skandinaavias.",
+   "why": "Firma kasvatab müüki teistes Balti riikides ja Põhjamaades. Fontakt saab leppida kokku kohtumisi joogi-, toidu- ja keemiatootjatega Eestis, Lätis ja Rootsis.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CVbankas.lt",
+    "url": "https://www.cvbankas.lt/pardavimu-vadybininkas-e-baltijos-salys-ir-skandinavija-kretingoje/1-14159562"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "LV",
+     "EE",
+     "SE"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Keyfactor",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "SE",
+    "FI",
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-10",
+   "what": "Küberturbe tarkvarafirma otsib Stockholmi regionaalset müügidirektorit, kes kasvatab suurklientide äri Skandinaavias ja Balti riikides ning loob ise uut müügitoru.",
+   "why": "Firma tahab Balti riikides uusi suurkliente. Fontakt saab leppida kokku kohtumisi pankade, energiaettevõtete ja tööstuse IT-turbe juhtidega.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Platsbanken",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31708707"
+   },
+   "route": {
+    "from": "US",
+    "to": [
+     "SE",
+     "FI",
+     "EE",
+     "LV",
+     "LT"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Staycity Group (Iirimaa)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-11",
+   "what": "Aparthotellide operaator otsib Helsingisse korraga müügidirektorit ja müügijuhti.",
+   "why": "Uus Helsingi müügitiim vajab ettevõtetest püsikliente. Fontakt saab leppida kokku kohtumisi Soome ja Eesti ettevõtete reisi- ja personalijuhtidega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4489033785"
+   },
+   "route": {
+    "from": "IE",
+    "to": [
+     "FI"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Penta Hospitals International",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-12",
+   "what": "Haiglagrupp otsib Tallinnasse äriarenduse juhti, kes vastutab Eesti ja Baltikumi eest.",
+   "why": "Uus äriarenduse roll Eestis näitab soovi leida siin partnereid ja ärikliente. Fontakt saab leppida kokku kohtumisi tööandjate, kindlustajate ja tervishoiuteenuse ostjatega.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4485460645"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Inmedias Res OÜ",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-13",
+   "what": "Pereettevõtete TOPi võitnud puitehitiste müüja kasvatab äri tugeva müügitaktikaga USA, Kanada, Austraalia ja Uus-Meremaa turgudel.",
+   "why": "Firma oskab ja tahab välisturgudel müüa. Fontakt saab pakkuda eksporditeenust ja kohtumisi edasimüüjatega Soomes ja Rootsis.",
+   "services": [
+    "eks",
+    "pre",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/13/pereettevotete-topi-voitja-vallutab-usa-turgu-nendega-ei-ole-kerge"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "US",
+     "CA",
+     "AU",
+     "NZ"
+    ]
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Origin Robotics (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-12",
+   "what": "Kaitse- ja droonitehnoloogia firma otsib äriarendusjuhti, kes leiab, kõnetab ja sõlmib uusi tehinguid kaitse- ja turvasektori klientidega.",
+   "why": "Firma kasvatab käivet uute klientide kaudu. Fontakt saab leppida kokku kohtumisi Eesti ja Soome kaitsetööstuse ettevõtetega.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1680869"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "TestDevLab (Läti)",
+   "type": "lead",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-12",
+   "what": "Riia tarkvaratestimise firma, kus töötab üle 450 inimese ja mis liitus hiljuti Xoriantiga, otsib Riiga või Vilniusesse Chief Growth Officerit.",
+   "why": "Uus kasvujuht hakkab ehitama B2B müügitoru. Fontakt saab pakkuda kohtumisi Põhjamaade ja Baltikumi tarkvarafirmadega ning CRM-i.",
+   "services": [
+    "pre",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1680876"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "PRENTA (CV-Online kaudu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-12",
+   "what": "Baltikumi üks juhtivaid köögimasinate ja -seadmete maaletoojaid otsib CV-Online'i värbamisteenuse kaudu Tallinnasse B2B müügijuhti, palk alates 2300 eurost.",
+   "why": "Firma kasvatab B2B müüki Eestis. Fontakt saab leppida kokku kohtumisi restoranide, hotellide ja suurköökidega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1680543"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Programmers Force Lithuania",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-12",
+   "what": "Tarkvaraarendusfirma Leedu üksus otsib Vilniusesse müügiarendajat (Sales Development Representative).",
+   "why": "SDR-i palkamine näitab, et firma otsib aktiivselt uusi ärikliente. Fontakt saab pakkuda kohtumiste kokkuleppimist Baltikumis ja Põhjamaades.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488284634"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Digiposter",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-11",
+   "what": "Digipostri tegevjuht rääkis Äripäeva sisuturundussaates koos Bauhofi turundusjuhiga, kuidas siseraadio aitab kaupluses lisamüüki teha.",
+   "why": "Firma maksab turunduse eest, et leida uusi jaekaubanduse kliente. Fontakt saab leppida kokku kohtumisi kaupluseketide ja teenindusettevõtete juhtidega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/11/siseraadio-aitab-muua-seda-mida-klient-ostma-ei-tulnud"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Vesiir raamatupidamisbüroo",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-12",
+   "what": "Raamatupidamisbüroo Vesiir asutaja rääkis Äripäeva sisuturundussaates aastalõpu töödest ja muudatustest, mis ettevõtjaid ees ootavad.",
+   "why": "Büroo otsib turunduse kaudu uusi äriettevõtetest kliente. Fontakt saab leppida kokku kohtumisi väikeste ja keskmiste firmade omanikega.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/12/raamatupidamise-muudatused-aastalopu-tood-ja-tehisaru-riskid-mis-ootab-ees-ettevotjaid"
+   },
+   "client": false,
+   "added": "2026-11-13"
+  },
+  {
+   "company": "Kasvu planeerivad Eesti ettevõtted",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-12",
+   "what": "SEB Balti finantsjuhtide uuringu järgi on Eesti ettevõtete optimism tõusnud Baltimaade tippu ja tagasi sõjaeelsel tasemel.",
+   "why": "Optimistlikud firmad investeerivad müüki ja uutesse turgudesse. Hea hetk pakkuda kohtumiste kokkuleppimist ja eksporditeenust.",
+   "services": [
+    "pre",
+    "eks",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/12/eesti-finantsjuhtide-optimism-tugevnes-tagasi-sojaeelse-seisuni"
+   },
+   "client": false,
+   "added": "2026-11-13"
   }
  ]
 }
