@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-16",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -5060,6 +5060,322 @@
    },
    "client": false,
    "added": "2026-11-13"
+  },
+  {
+   "company": "BrightAnalytics (Belgia)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-14",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Belgia kiiresti kasvav finantstarkvara firma laieneb Euroopas ja otsib Stockholmi kontorisse soome keelt rääkivat Business Developerit, kelle ülesanne on Soome turu kasvatamine. Töö sisu on outbound-müük, sotsiaalmeedia kaudu müük ja messid, et tuua müügitiimile rohkem liide.",
+   "why": "Firma avab Soome turgu ilma kohaliku kontorita ja vajab kohe kohtumisi Soome ettevõtete finantsjuhtidega. Fontakt saab soome keeles helistada ja kohtumisi kokku leppida juba enne, kui uus inimene sisse elab.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4402478125"
+   },
+   "route": {
+    "from": "BE",
+    "to": [
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "Spectral Blue Technologies (Soome)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Soome puhasruumi tehnoloogia firma ütleb, et on tugevas kasvufaasis, ja otsib müügispetsialisti. Ülesannete hulka kuulub aktiivne uute klientide leidmine nii Soomes kui ka valitud välisturgudel.",
+   "why": "Kuulutuses on kirjas uute klientide leidmine ja välisturud. Fontakt saab ette valmistada sihtrühma andmebaasi ja kokku leppida kohtumisi ravimi- ja meditsiiniseadmete tootjatega.",
+   "services": [
+    "pre",
+    "tel",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488947021"
+   },
+   "route": {
+    "from": "FI",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "SprintlyWorks",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "FI",
+    "EE"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Põhjamaade konsultatsioonifirma otsib Helsingi kontorisse Junior Account Executive'i. Kuulutuse põhiülesanded on külm outbound telefoni, e-posti ja LinkedIni kaudu ning suurte ja keskmiste firmade kliendiks võitmine. Kuulutus on avaldatud Tallinna asukohaga.",
+   "why": "Firma müük käib külmkontaktide kaudu ja uus inimene alles õpib. Fontakt saab tööstus-, energia- ja logistikafirmade juhtidega kohtumisi kokku leppida Soomes ja Eestis.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4489568762"
+   }
+  },
+  {
+   "company": "DiPocket (HEMES kaudu, Leedu)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Leedu Panga litsentsiga makselahenduste firma DiPocket otsib värbamisfirma HEMES kaudu Business Development Manageri (Outbound), kelle ülesanne on leida Euroopa turgudel uusi ärikliente. Kuulutuse järgi on roll keskendunud uute suhete loomisele nullist, mitte sissetulevatele päringutele.",
+   "why": "Firma soovib selgelt outbound-müüki ja uusi B2B-kliente. Fontakt saab kokku leppida kohtumisi Balti ja Põhjamaade fintech-, laenu- ja kindlustusfirmadega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4489572849"
+   }
+  },
+  {
+   "company": "Locatory.com (Leedu)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Avia Solutions Groupi kuuluv lennundusvaruosade platvorm Locatory.com otsib Vilniusesse B2B müügijuhti. Esimene ülesanne kuulutuses on potentsiaalsetele klientidele outbound-kõnede tegemine ja veebikohtumiste kokkuleppimine.",
+   "why": "Firma müük põhineb külmkõnedel ja kohtumiste kokkuleppimisel. Fontakt saab seda tööd teha otse või aidata uuel müüjal täita kalendrit kiiremini.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488589960"
+   }
+  },
+  {
+   "company": "peoplefone Lithuania (Šveits)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Seitsmes Euroopa riigis tegutsev VoIP-telefoniteenuse firma peoplefone otsib Leetu müügijuhti. Tema ülesanne on leida väikesi ja keskmisi ärikliente koos partneritega, luua paigalduspartnerite võrgustik ja panustada Leedu turu müügistrateegiasse.",
+   "why": "Välisfirma ehitab Leedu turgu ühe inimesega. Fontakt saab leida IT-süsteemide integraatoreid ja VKE kliente ning kokku leppida esimesed kohtumised.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490597236"
+   },
+   "route": {
+    "from": "CH",
+    "to": [
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "Roima Intelligence (Soome)",
+   "type": "lead",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Tootmistarkvara pakkuja Roima otsib Soome müügidirektorit, kes juhib müügitiimi ja vastutab Soome müügieesmärkide eest. Fookuses on uus tehaseplatvorm Roima Flow, mida müüakse tootjate omanikele ja tegevjuhtidele.",
+   "why": "Uus müügidirektor ja uus toode tähendavad vajadust täita müügitoru kiiresti. Fontakt saab kokku leppida kohtumisi Soome tootmisettevõtete juhtidega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488935317"
+   }
+  },
+  {
+   "company": "Piceasoft (Staffa kaudu, Soome)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Soome tarkvarafirma Piceasoft otsib värbamisfirma Staffa kaudu müügijuhti, kes toob rahvusvahelistel turgudel uusi kliente ja haldab müügitoru HubSpotis. Kliendid on mobiilioperaatorid, jaemüüjad ja ringmajanduse firmad.",
+   "why": "Firma kasvab välisturgudel ja otsib uusi kliente. Fontakt saab aidata kohtumistega Balti ja Põhjamaade operaatorite ning elektroonika jaemüüjatega.",
+   "services": [
+    "pre",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488945312"
+   },
+   "route": {
+    "from": "FI",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Rakennustieto Oy (Soome)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Ehitusvaldkonna infoteenuste firma Rakennustieto otsib Helsingisse müügijuhti digilahenduste müügiks. Kuulutuse järgi juhib ta kogu müügiprotsessi alates prospekteerimisest ja kohtumiste kokkuleppimisest kuni lepinguteni.",
+   "why": "Kohtumiste kokkuleppimine on kirjas müügijuhi tööna. Fontakt saab selle osa üle võtta ja tuua kohtumisi kinnisvara- ja ehitusfirmadega.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490583764"
+   }
+  },
+  {
+   "company": "Cybernetica AS",
+   "type": "lead",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Cybernetica otsib küberturbeteenuste suunale müügi- ja äriarendusjuhti (Head of Sales & Business Development). Samal päeval avaldati ka sama tiimi Sales Engineeri kuulutus.",
+   "why": "Uus müügijuht peab küberturbe teenustele kiiresti uusi kliente leidma. Fontakt saab kokku leppida kohtumisi IT- ja turvajuhtidega Eesti ettevõtetes.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1681377"
+   }
+  },
+  {
+   "company": "PICHE SIA (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Läti ehitus- ja arendusfirma PICHE otsib müügiprojektide juhti tööstusparkide müügiks.",
+   "why": "Tööstuspargid vajavad ettevõtetest rentnikke ja ostjaid. Fontakt saab leida tootmis- ja logistikafirmad, kes otsivad Lätis uusi pindu, ning kokku leppida kohtumisi.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1681467"
+   }
+  },
+  {
+   "company": "HEVI Optronics",
+   "type": "deal",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-14",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Kaitsetehnoloogia firma HEVI Optronics valiti aasta ettevõtteks. Saksa Quantum Systems omandas firmas enamusosaluse, müügitulu peaaegu kolmekordistus üle 27 miljoni euro ja Tabasallu kerkib uus tehas.",
+   "why": "Kiire kasv ja uus tehas tähendavad uusi tarnijaid ja partnereid. Fontakt saab pakkuda andmebaase ja kohtumisi kaitsetööstuse tarneahelas.",
+   "services": [
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120624846/aasta-ettevote-2026-on-kaitsetoostusettevote-hevi-optronics"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Ruukki Products AS",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-13",
+   "added": "2026-11-16",
+   "client": false,
+   "what": "Ruukki Products avaldas Äripäevas sisuturundusartikli fassaadilahendustest, mis annavad hoonele omanäolise välisilme nii päeval kui öösel.",
+   "why": "Firma maksab turunduse eest, et jõuda arhitektide ja ehitusfirmadeni. Fontakt saab teha artiklile järgneva kõnekampaania arhitektuuribüroodele ja arendajatele.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/13/kui-hoone-naeb-hea-valja-ainult-pimedas-on-arhitektuuris-midagi-valesti"
+   }
   }
  ]
 }
