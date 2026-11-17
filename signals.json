@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -5375,6 +5375,388 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/sisuturundus/2026/11/13/kui-hoone-naeb-hea-valja-ainult-pimedas-on-arhitektuuris-midagi-valesti"
+   }
+  },
+  {
+   "company": "Civinity (Leedu)",
+   "type": "deal",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Leedu hoonehoolduse ja tehnoloogialahenduste kontsern Civinity ostab koos juhtkonnaga välja Stell Eesti, mis on Eesti suurim kinnisvara hooldus- ja haldusettevõte umbes tuhande töötajaga. Civinity kaasab võlakirjadega kuni 8 miljonit eurot, et laiendada äri Eestis ja rahastada kolme ettevõtte ostu.",
+   "why": "Leedu kontsern siseneb Eesti turule ja peab tasuma ostu kiire kasvuga. Fontakt saab pakkuda Eesti ärikinnisvara omanike ja korteriühistute andmebaasi, kohtumisi uute hoolduslepingute jaoks ning CRM-i ühendatud müügitiimile.",
+   "services": [
+    "pre",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/16/tuhande-tootajaga-puhastusfirma-juhid-votsid-leedukad-appi-ja-ostsid-omanikud-valja"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EE"
+    ]
+   }
+  },
+  {
+   "company": "Enreach SIA (Läti)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Ärikommunikatsiooni, AI-lahenduste ja IT-toe pakkuja Enreach otsib Lätis ärikliendihaldurit, kelle põhiülesanne on leida uusi ärikliente. Kuulutuses on kirjas külmkõned, kohtumiste kokkuleppimine ja oma potentsiaalsete klientide baasi loomine.",
+   "why": "Firma tahab uusi B2B kliente külmkõnede kaudu ja ühe inimese võimekus on piiratud. Fontakt saab teha Läti ettevõtetele kõnekampaania ja tuua uuele müüjale kohtumisi kohe alguses.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1681810"
+   }
+  },
+  {
+   "company": "NATRIX SIA (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Mehitamata maismaaplatvorme tootev Läti kaitsetehnoloogia firma Natrix otsib Business Development Managerit, kes arendab partnerlusi eksporditurgudel, korraldab kliendikohtumisi ja käib messidel.",
+   "why": "Kaitsetööstuse firma otsib esimesi partnereid välisturgudel. Fontakt saab aidata leida sihtturgude edasimüüjad ja korraldada kohtumised Eestis, Leedus ja Põhjamaades.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1678588"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Dovaina UAB (Leedu)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-12",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Kaunase piirkonna tootja Dovaina otsib ekspordijuhti, kelle töö on aktiivselt otsida uusi B2B kliente välisturgudel külmkõnede ja esimeste kontaktide kaudu ning arendada müüki uutes eksporditurgudes.",
+   "why": "Kuulutuses on otse kirjas külmkõned ja uute välisturgude klientide leidmine. Fontakt saab teha Eesti, Läti ja Põhjamaade turgudel kohaliku keele kõnekampaania ja tuua ekspordijuhile kohtumisi.",
+   "services": [
+    "eks",
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CVbankas.lt",
+    "url": "https://www.cvbankas.lt/eksporto-vadybininkas-e-anglu-kalba-kaune/1-14169706"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Alvas Group (Leedu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-14",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Aukštaitija üks suuremaid ettevõtete gruppe, kus töötab üle 300 inimese, laiendab ekspordimeeskonda ja otsib nooremat ekspordijuhti. Saksa või vene keele oskus on plussiks Poola ja Saksa turu jaoks.",
+   "why": "Grupp kasvab rahvusvahelistel turgudel ja ehitab ekspordimeeskonda. Fontakt saab pakkuda uute turgude andmebaase ja kohtumisi, sh Baltikumis ja Põhjamaades.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CVbankas.lt",
+    "url": "https://www.cvbankas.lt/jaunesnysis-eksporto-vadybininkas-e-panevezyje/1-14171886"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "PL",
+     "DE"
+    ]
+   }
+  },
+  {
+   "company": "THOMSON Furniture SIA (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Üks Läti juhtivaid büroomööbli müüjaid otsib müügiprojektide juhti, kelle esimene ülesanne on uute klientide leidmine, kliendikohtumised ja pakkumiste tegemine.",
+   "why": "Firma vajab uusi ärikliente. Fontakt saab tuua uuele müüjale kohtumisi Läti ettevõtetega, kes kolivad või uuendavad kontorit.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1673529"
+   }
+  },
+  {
+   "company": "Mercure Vilnius (Comfort Hotel LT)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Detsembris avatakse uuenenud ja Accori ketti kuuluvaks Mercure Vilniuseks ümber nimetatud hotell. Hotell otsib müügijuhti, kes otsib aktiivselt uusi B2B kliente: ettevõtteid, reisibüroosid ja ürituste korraldajaid.",
+   "why": "Uus bränd ja tühi broneeringukalender tähendavad kiiret vajadust ärikliente leida. Fontakt saab teha Leedu ja Läti ettevõtetele konverentsi- ja ürituspakkumise kõnekampaania.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1681985"
+   }
+  },
+  {
+   "company": "Condor Automation",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Tehaste automaatikaosi, sh raskesti leitavaid ja aegunud osi tarniv Euroopa firma laiendab müügimeeskonda ja otsib Eestisse eesti ja inglise keelt rääkivat müügiesindajat. Töö on leida telefoni ja e-posti teel uusi B2B kliente tehastest, hooldusmeeskondadest ja integraatoritest.",
+   "why": "Välisfirma siseneb Eesti turule ühe kaugtöötava müüjaga ja vajab palju külmkontakte. Fontakt saab anda Eesti tootmisettevõtete andmebaasi ja kokku leppida esimesed kohtumised.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4487285591"
+   }
+  },
+  {
+   "company": "BK Eesti",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "BK Eesti otsib Hikvisioni projektimüügijuhti, kelle ülesanne on leida uusi kliente ja müügivõimalusi paigaldus- ja turvaettevõtete hulgas ning hiljem arendada ka LED-ekraanide tooteportfelli.",
+   "why": "Uus müügiroll uute klientide leidmiseks. Fontakt saab tuua kohtumisi turva- ja elektripaigaldusfirmadega ning anda nende andmebaasi.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4489748166"
+   }
+  },
+  {
+   "company": "Tycroc (CV-Online kaudu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT",
+    "FI"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Eesti päritolu ehitusmaterjalide ja paigaldussüsteemide bränd Tycroc otsib CV-Online kaudu kütte- ja jahutuslahenduste tootejuhti. Firmal on esindused ja edasimüüjad kõigis Balti riikides ning Soomes.",
+   "why": "Uus tootesuund vajab müüki neljal turul. Fontakt saab tuua kohtumisi ehitusfirmade ja paigaldajatega Eestis, Lätis, Leedus ja Soomes.",
+   "services": [
+    "pre",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1681948"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "LV",
+     "LT",
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "Genlio OÜ",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Eestis registreeritud tehnoloogiafirma Genlio avaldas Soomes uue kuulutuse ja otsib Tamperesse, Oulusse, Turusse või Helsingisse kogenud Senior Business Development Consultanti, kes ehitab uusi kliendisuhteid esimesest vestlusest lepinguni.",
+   "why": "Firma kasvatab Soome müüki juba teise kuulutusega. Fontakt saab anda Soome ettevõtete andmebaasi ja kokku leppida kohtumised soome keeles.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Duunitori",
+    "url": "https://duunitori.fi/tyopaikat/tyo/senior-business-development-consultant-genlioio-sdsuu-20735529"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "Wendre (Mercuri Urvali kaudu)",
+   "type": "lead",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-14",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Pärnu unetoodete tootja Wendre otsib Mercuri Urvali kaudu uut tegevjuhti, kes viiks läbi ettevõtte pöörde, taastaks kasumlikkuse ja muudaks organisatsiooni kliendivajadustele kiiremini reageerivaks.",
+   "why": "Uus juht vaatab üle ka müügi ja kliendibaasi. Fontakt saab pakkuda Põhjamaade ja Baltikumi ostjate andmebaasi ning kohtumisi uue juhi esimestel kuudel.",
+   "services": [
+    "eks",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1675779"
+   }
+  },
+  {
+   "company": "Harju Elekter Group",
+   "type": "lead",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Harju Elekter Group kutsus tagasi juhatuse esimehe Tiit Atso ja tema asemel asus kontserni juhtima seni Eesti tehast juhtinud Alvar Sass.",
+   "why": "Uus juht teeb esimestel kuudel muudatusi ka müügis. Fontakt saab pakkuda uute äriklientide leidmist Eestis ning Soome ja Rootsi tütarettevõtete turgudel.",
+   "services": [
+    "pre",
+    "eks"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/borsiuudised/2026/11/16/harju-elekter-vahetas-ootamatult-juhti"
+   }
+  },
+  {
+   "company": "Glamox AS",
+   "type": "exp",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "SE",
+    "FI"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Valgustitootja Glamoxi juht Virve Jõgeva rääkis, et Rootsi müük rõõmustab, kuid Soome pärast on mure. Skandinaavias on müügimaht vähenenud ja firma on pidanud hindu tõstma.",
+   "why": "Soome müügi langus tähendab vajadust uute klientide järele. Fontakt saab teha Soome ehitusfirmadele ja elektripaigaldajatele soomekeelse kõnekampaania.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/saated/2026/11/16/valgustitootja-juht-roomustab-rootsi-ja-muretseb-soome-parast-senist-toodet-kliendile-enam-ei-muu"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "SE",
+     "FI",
+     "NO"
+    ]
+   }
+  },
+  {
+   "company": "Venemaa suunal töötanud veo- ja bussifirmad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-17",
+   "client": false,
+   "what": "Valitsus plaanib 1. detsembrist sulgeda piiri Venemaaga, mis peatab ka bussiliinid ja veokite sõidud. Ecolinesi juht ütles, et firma peab ümber suunama transpordivahendid, logistikavõrgu ja personali.",
+   "why": "Vedajad ja bussifirmad peavad kiiresti leidma uusi kliente ja liine ELi suunal. Fontakt saab anda kaubasaatjate andmebaasi ja kokku leppida kohtumised Eesti ja Läti tootjatega.",
+   "services": [
+    "db",
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "ERR",
+    "url": "https://www.err.ee/1610197843/piiri-sulgemine-venemaaga-peatab-ka-bussiliikluse-ja-veokite-soidud"
    }
   }
  ]
