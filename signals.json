@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -5757,6 +5757,422 @@
    "source": {
     "name": "ERR",
     "url": "https://www.err.ee/1610197843/piiri-sulgemine-venemaaga-peatab-ka-bussiliikluse-ja-veokite-soidud"
+   }
+  },
+  {
+   "company": "Harju Elekter AS",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "SE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Harju Elekter otsib alajaamade müügimeeskonna juhti, kes kasvataks äri Eestis ja Skandinaavias. Tegemist on uue ametikohaga ning kasuks tuleb soome või rootsi keele oskus.",
+   "why": "Uus müügijuht peab Skandinaavias kiiresti uusi kliente leidma. Fontakt saab kokku leppida kohtumised Rootsi ja Norra energiaettevõtete ja elektritöövõtjatega.",
+   "services": [
+    "pre",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4491472101"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "SE",
+     "NO"
+    ]
+   }
+  },
+  {
+   "company": "Gusto Tool Co (Suurbritannia)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "SE",
+    "FI"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Briti tööriistabränd Gusto alustab müüki 2027. aasta jaanuaris ja otsib Upworkis inimesi, kes leiaksid edasimüüjaid Saksamaal, Rootsis, Taanis, Norras ja Soomes. Tasu makstakse iga edasimüüja eest, kes teeb esimese tellimuse.",
+   "why": "Firma ostab sisse täpselt seda, mida Fontakt teeb: edasimüüjate otsimist ja kohtumiste kokkuleppimist. Fontakt saab pakkuda Soome ja Rootsi tööriistahulgimüüjate kampaaniat.",
+   "services": [
+    "pre",
+    "tel",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022122737021009025694"
+   },
+   "route": {
+    "from": "GB",
+    "to": [
+     "DE",
+     "SE",
+     "DK",
+     "NO",
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "Rankfor.AI",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Rankfor.AI otsib Eestisse B2B müüjat, kes hangiks uusi kliente Managed AI Search teenusele. Müüja peab ise sobivaid Eesti ettevõtteid otsima ja nendega ühendust võtma.",
+   "why": "Firma vajab Eestis uute äriklientide leidmist ja alles ehitab müüki üles. Fontakt saab kohe alustada kohtumiste kokkuleppimisega turundusjuhtidega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490474008"
+   }
+  },
+  {
+   "company": "Magos Systems",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "SE"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Radarlahenduste tootja Magos Systems värbab piirkondlikke müügijuhte üle Euroopa, sealhulgas Tallinna ja Skandinaaviasse, et viia oma perimeetrikaitse lahendused uutele turgudele.",
+   "why": "Firma siseneb uutele turgudele ja vajab kontakte süsteemiintegraatorite ja turvafirmadega. Fontakt saab koostada andmebaasi ja kokku leppida kohtumised Eestis ja Rootsis.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490292513"
+   }
+  },
+  {
+   "company": "Hinen (CE-LINK, Hiina)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Hiina energiasalvestite tootja Hinen otsib Vilniusesse müügijuhti, kes arendaks edasimüüjate ja võtmeklientide võrgustikku sihtturgudel.",
+   "why": "Uus välisbränd peab Baltikumis edasimüüjad kiiresti leidma. Fontakt saab teha Leedu, Läti ja Eesti päikeseenergia paigaldajate ja hulgimüüjate kõnekampaania.",
+   "services": [
+    "pre",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478944884"
+   },
+   "route": {
+    "from": "CN",
+    "to": [
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "SAF Tehnika AS (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Läti tehnoloogiafirma SAF Tehnika, kelle tooteid müüakse üle 130 riigis, otsib müügijuhti hortikultuuri valdkonda EMEA turule.",
+   "why": "Uue valdkonna müük eeldab kasvuhoonete ja aiandusettevõtete leidmist. Fontakt saab teha Põhjamaade ja Baltikumi aiandusfirmade andmebaasi ja kohtumised.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1679341"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Versupack SIA (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Toidupakendite hulgimüüja Versupack otsib müügispetsialisti, kes arendaks oma tooteportfelli müüki Baltikumis ja leiaks aktiivselt uusi kliente. Töö käib CRM-süsteemis.",
+   "why": "Firma tahab kasvada kogu Baltikumis ja vajab uusi HoReCa ja tootmisettevõtetest kliente. Fontakt saab kokku leppida kohtumised Eesti ja Leedu toitlustajatega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1676719"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EE",
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "Luxid Group (Soome)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Turundus- ja müügikonsultatsioonifirma Luxid otsib New Business Sales Executive'i, kes vastutaks uute klientide hankimise eest Soomes ja osaleks Euroopa kasvuprojektides.",
+   "why": "Firma vajab Soomes uusi suurkliente ja ehitab müügitoru. Fontakt saab soome keeles kokku leppida kohtumised suurettevõtete turundus- ja müügijuhtidega.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490932677"
+   }
+  },
+  {
+   "company": "AdvanGrid (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Tööstusettevõtete energiatõhususe lahendusi pakkuv AdvanGrid otsib Riias B2B müügi- ja projektijuhti, kes kohtuks tööstusklientidega ja sõlmiks tehinguid.",
+   "why": "Müügijuht vajab kohtumisi tööstusettevõtete tootmisjuhtidega. Fontakt saab need kokku leppida nii Lätis kui ka Eestis.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490197748"
+   }
+  },
+  {
+   "company": "Nevažiuoja.lt (Leedu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Leedu autoremondi platvorm kasvab kolm korda aastas, on saanud rahastuse järgmiseks turuks ja otsib müüjat, kes tooks platvormile uusi töökodasid ka külmkõnedega.",
+   "why": "Rahastatud kasvufirma vajab kiiresti uusi B2B kliente ja laieneb peagi uuele turule. Fontakt saab aidata töökodade andmebaasi ja kõnekampaaniaga Lätis ja Eestis.",
+   "services": [
+    "tel",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490461680"
+   }
+  },
+  {
+   "company": "Aleph (ChatGPT Ads)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "OpenAI nimetas Alephi ChatGPT reklaamide ainuedasimüüjaks 44 riigis. Aleph otsib Tallinna Client Partnerit, kes leiaks ja sõlmiks lepinguid uute reklaamiandjatega.",
+   "why": "Uus toode turul ja müük käib outbound meetodil. Fontakt saab kokku leppida kohtumised Eesti suuremate reklaamiandjate ja agentuuridega.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490284756"
+   }
+  },
+  {
+   "company": "Rootsi konsultatsioonifirma (nimi Upworkis avaldamata)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "SE"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Firma otsib Upworkis rootsi keelt kõnelevat müüjat, kes helistaks automaatse e-posti kampaania lõpus olevatele kontaktidele ja lepiks kokku kohtumisi konsultantidega.",
+   "why": "Firma ostab sisse kohtumiste kokkuleppimist Rootsi turul. Fontakt saab pakkuda rootsikeelset kõneteenust koos CRM-i haldusega.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022122250812870812103"
+   }
+  },
+  {
+   "company": "Rúngne (Norra)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "SE",
+    "FI"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Norra ronimisbränd Rúngne otsib Upworkis telemarketingi spetsialiste, kes helistaksid USA ja Euroopa ronimissaalidele, leiaksid otsustaja ja lepiksid kokku kohtumisi.",
+   "why": "Firma ostab sisse külmkõnesid ja kohtumiste kokkuleppimist. Fontakt saab pakkuda Põhjamaade ja Baltikumi ronimissaalide kampaaniat.",
+   "services": [
+    "tel",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022122627409512829504"
+   },
+   "route": {
+    "from": "NO",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Baltic Dock",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-14",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Eesti paadiplatvorm Baltic Dock käivitab paadivarustuse turuplatsi ja otsib Upworkis inimest, kes võtaks ühendust merevarustuse poodide ja partneritega ning tooks platvormile 20 kuni 30 müüjat.",
+   "why": "Uus turuplats vajab kiiresti esimesi äriklientidest müüjaid. Fontakt saab helistada Eesti ja Soome merevarustuse firmadele.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022121700579712266847"
+   }
+  },
+  {
+   "company": "Utilitas Wind",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Utilitas Wind kavandab Pärnu lähedale Lemmetsa külla suurt andmekeskust, kuhu võib tulla kuni 28 serverihoonet ja kuni 360 töökohta.",
+   "why": "Suur projekt vajab andmekeskuse kliente ja palju alltöövõtjaid. Fontakt saab aidata leida rentnikke ning teha tarnijatele kohtumisi.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Postimees",
+    "url": "https://majandus.postimees.ee/8585105/parnu-kulje-alla-kavandatakse-hiiglaslikku-andmekeskust"
+   }
+  },
+  {
+   "company": "Arrive (EasyPark, Soome)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Arrive otsib Helsingisse Account Executive'i, kelle tööajast umbes 80% kulub uute klientide otsimisele ja neile helistamisele.",
+   "why": "Firma teeb Soomes palju külmkõnesid ise. Fontakt saab pakkuda soomekeelset kõnetiimi lisavõimsusena.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4488178554"
+   }
+  },
+  {
+   "company": "Incap Estonia",
+   "type": "exp",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "FI"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "client": false,
+   "what": "Saaremaal tegutseva elektroonikatootja Incap emafirma seadis eesmärgiks kasvatada käive 2029. aastaks 400 miljoni euroni.",
+   "why": "Kiire kasvu eesmärk eeldab uusi tööstuskliente. Fontakt saab kokku leppida kohtumised Põhjamaade seadmetootjatega, kes otsivad lepingulist tootjat.",
+   "services": [
+    "eks",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/borsiuudised/2026/11/17/incap-sihib-400-miljoni-euro-suurust-kaivet-ja-hakkab-dividendi-jagama"
    }
   }
  ]
