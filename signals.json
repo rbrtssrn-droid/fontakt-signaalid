@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -6173,6 +6173,429 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/borsiuudised/2026/11/17/incap-sihib-400-miljoni-euro-suurust-kaivet-ja-hakkab-dividendi-jagama"
+   }
+  },
+  {
+   "company": "ZL Technika UAB (Zoomlion, Leedu)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LT",
+    "LV"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Leedu ZL Technika on Zoomlioni põllu- ja ehitusmasinate ametlik esindaja Baltikumis ning otsib Eestisse Country Managerit. Uus juht peab looma Eestis müügivõrgu ja meeskonna ning leidma aktiivselt uusi kliente üle Eesti.",
+   "why": "Leedu firma avab Eesti turgu nullist ja ühe inimesega. Eesti põllu- ja ehitusettevõtete andmebaas ning kohtumiste kokkuleppimine annavad uuele juhile kohe esimesed kohtumised.",
+   "services": [
+    "pre",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1680645"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EE"
+    ]
+   }
+  },
+  {
+   "company": "Snoika OÜ",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "AI-otsingu nähtavuse SaaS ja agentuur otsib täistsükli Account Executive'i, kes leiab ise kliente outboundi kaudu. Ainus toimiv kanal on praegu konverentsid ja 6 kuu pärast peab olema vähemalt kaks; Põhjamaade turu kogemus on plussiks.",
+   "why": "Firma tahab kiiresti teist müügikanalit ja ehitab outboundi nullist. Presales ja Põhjamaade kõned annavad neile kohe toimiva outbound-kanali.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1682752"
+   }
+  },
+  {
+   "company": "MASCOT Workwear (Taani)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "LV",
+    "EE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Taani tööriiete tootja otsib Riiga Area Sales Manageri, kes leiab ja võidab Lätis uusi lõppkliente koos edasimüüjatega. Samal ajal otsitakse Tallinnasse mobiilse näidissalongiga Account Manageri.",
+   "why": "Taani bränd kasvatab Baltikumis müüki ja vajab Lätis uusi ettevõtetest lõppkliente. Läti ehitus- ja tööstusfirmade andmebaas ning kohtumised kiirendavad uue müügijuhi starti.",
+   "services": [
+    "pre",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4491874493"
+   },
+   "route": {
+    "from": "DK",
+    "to": [
+     "LV",
+     "EE"
+    ]
+   }
+  },
+  {
+   "company": "Oddlygood (Soome)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Valio taustaga Soome taimsete toodete firma Oddlygood otsib Tallinnasse National Account Manageri. Väike Balti meeskond kujundab, kuidas firma Eestis, Lätis ja Leedus kasvab.",
+   "why": "Soome bränd kasvatab Baltikumis ja tiim on väike. Kohtumised HoReCa ja jaekettide ostjatega aitavad neil uusi kanaleid avada.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490868528"
+   },
+   "route": {
+    "from": "FI",
+    "to": [
+     "EE",
+     "LV",
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "TLT Manufacturing (TLT Mechanics, Leedu)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LT",
+    "EE",
+    "LV",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Leedu plastivalu tootja otsib Vilniusesse Business Development Manageri, kes leiab ja võidab uusi kliente üle Euroopa. Rollis on turule sisenemise strateegia, külmkõned, kohtumised ja messid.",
+   "why": "Firma ehitab kliendiportfelli nullist ja otsib uusi turge. Põhjamaade ja Eesti tööstusfirmade andmebaas ning kohtumiste kokkuleppimine annab uuele müüjale kohe tööd.",
+   "services": [
+    "eks",
+    "pre",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492404497"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "MB „8 PASAULIAI“ (Leedu)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LT",
+    "LV",
+    "EE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Leedu ilutoodete firma otsib ärikliendi müügijuhti, kes otsib aktiivselt uusi B2B kliente Leedus ja välisturgudel. Kuulutuses on kirjas külmkontaktid telefoni, e-posti ja sotsiaalmeedia kaudu.",
+   "why": "Firma tahab välisturgudele ja ootab külmkõnesid. Fontakt saab teha Eestis ja Lätis ilusalongide ning hulgimüüjate kõnekampaania.",
+   "services": [
+    "tel",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1682713"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Ursus LT (Leedu)",
+   "type": "crm",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Leedu logistikafirma otsib 5-liikmelisele müügitiimile müügijuhti, kes loob ühtse müügiprotsessi, tagab CRM-i sisulise kasutamise ja võtab müügis kasutusele AI ja automatiseerimise. 45 päeva jooksul peab käima regulaarne müügiprognoos.",
+   "why": "Uus müügijuht peab müügiprotsessi ja CRM-i korda tegema kohe. Fontakti CRM sobib väikesele B2B müügitiimile ja lisaks saab pakkuda uute klientide kohtumisi.",
+   "services": [
+    "crm",
+    "pre"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490735458"
+   }
+  },
+  {
+   "company": "AB „Kauno grūdai“ (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT",
+    "LV",
+    "EE",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Akola Groupi kuuluv toidutootja otsib kiirnuudlite ärisuunale Head of Salesi 12 kuni 15 inimesega tiimile. Ärisuund toob umbes 100 mln eurot aastas ja otsib uusi turge.",
+   "why": "Uus müügijuht ja uued turud tähendavad uusi kontakte jaekettide ja hulgimüüjatega. Põhjamaade ja Balti ostjate andmebaas ning kohtumised aitavad uutele turgudele jõuda.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4491880461"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Werkado (Agent Triini kaudu, Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Tööriistade ja isikukaitsevahendite edasimüüja Werkado, kellel on üle 600 kliendi Baltikumis, otsib Riiga B2B müügiesindajat. Ülesanne on leida uusi kliente üle Läti ja hoida CRM korras.",
+   "why": "Firma tahab Lätis uusi ärikliente. Ehitus- ja tööstusfirmade andmebaas ning eelhelistamine annavad uuele müüjale kohtumised kiiremini.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4491382541"
+   }
+  },
+  {
+   "company": "PROKS SIA (Läti)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LV",
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Läti IT-komponentide hulgimüüja otsib vanemat ekspordi kliendihaldurit, kes hoiab strateegilisi ekspordikliente ja leiab uusi. Nõutud on kogemus uute klientide ise leidmisel.",
+   "why": "Firma kasvatab eksporti ja vajab uusi ärikliente välisturgudel. Fontakt saab tuua kohtumisi Eesti, Soome ja Rootsi IT-edasimüüjatega.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1681998"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "SDSLibrary",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "SE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Kemikaalide registri ja ohutuskaartide süsteem SDSLibrary siseneb Rootsi turule ja otsib Upworkis rootsi keelt rääkivat B2B müügi lõpetajat. Kohtumised broneerib nende kohtumiste kokkuleppija ja müük käib CRM-is.",
+   "why": "Firma ostab Rootsi turul müüki sisse. Fontakt saab pakkuda rootsikeelset kohtumiste kokkuleppimist ja andmebaasi ühest kohast.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022122999702764125282"
+   }
+  },
+  {
+   "company": "Silen OÜ",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Vaikuseruumide tootja Silen muudab järgmisel aastal ärimudelit: müügistruktuur muutub ja üle maailma rajatakse väiksemaid tootmisüksusi. Tegevjuhi sõnul tipptasemel toode ei müü ennast ise.",
+   "why": "Firma ehitab müüki ümber ja otsib uusi kliente. Põhjamaade kontorite ja arendajate andmebaas ning kohtumised sobivad uue müügimudeliga.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/18/suurelt-koondanud-vaikuseruumide-tootja-teeb-aris-kaiguvahetuse-tipptasemel-toode-ei-muu-ennast-ise"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Marduk Technologies OÜ",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Droonituvastussüsteeme arendav Marduk Technologies plaanib järgmisel aastal käivet mitu korda kasvatada. Ettevõtte sõnul kasvab firma väga kiiresti.",
+   "why": "Mitmekordne kasvuplaan vajab uusi kliente ja partnereid. Fontakt saab aidata leida kontakte kaitse- ja turvasektori ostjate juures lähiturgudel.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/18/drooniari-tahab-uuel-aastal-kaivet-mitu-korda-tosta-marduk-kasvab-vaga-vaga-kiiresti"
+   }
+  },
+  {
+   "company": "Sunly",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": true,
+   "what": "Taastuvenergia kontsern Sunly avab Ellamaal Balti riikide suurima Risti päikesepargi.",
+   "why": "Olemasolev klient lisab suure tootmismahu. Hea põhjus helistada ja pakkuda uut kampaaniat ärikliendi elektrilepingute müügiks.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "Postimees",
+    "url": "https://majandus.postimees.ee/8585911/sunly-avab-balti-riikide-suurima-paikesepargi"
+   }
+  },
+  {
+   "company": "Estonian Business School",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "EBS avaldas Äripäevas sisuturundusartikli ettevõtete õppimiskultuurist ja juhtide arendamisest.",
+   "why": "EBS maksab turunduse eest, et müüa ettevõtetele koolitusi. Artiklile järgnev kõnekampaania personalijuhtidele aitab huvi müügiks muuta.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/18/koolitad-tootaja-targaks-ja-ta-lahkub-ebs-hoiatab-hoopis-suurema-riski-eest"
+   }
+  },
+  {
+   "company": "Jaekettide tarnijad ja poeehituse firmad",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "client": false,
+   "what": "Eesti suured jaeketid plaanivad 2027. aastal avada üle paarikümne uue või asendatud kaupluse, samal ajal mitu tuntud poodi suletakse.",
+   "why": "Uued poed vajavad sisustust, ehitust, tehnikat ja tarnijaid. Neile firmadele saab pakkuda kõnekampaaniat jaekettide arendusjuhtideni.",
+   "services": [
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120625814/poekettide-2027-suur-plaan-avatakse-ule-20-uue-poe-mitu-tuntud-kauplust-kaob"
    }
   }
  ]
