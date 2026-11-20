@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -6596,6 +6596,234 @@
    "source": {
     "name": "Delfi Ärileht",
     "url": "https://arileht.delfi.ee/artikkel/120625814/poekettide-2027-suur-plaan-avatakse-ule-20-uue-poe-mitu-tuntud-kauplust-kaob"
+   }
+  },
+  {
+   "company": "Lawerton (WorkingDay Latvia kaudu)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "Riias, Vilniuses ja Madridis kontoritega advokaadibüroo Lawerton laieneb Eestisse ja otsib Managing Partnerit, kes rajab ja kasvatab kohaliku õiguspraktika nullist. Värbamist teeb WorkingDay Latvia.",
+   "why": "Uus büroo Eestis alustab ilma klientideta ja partneri ülesanne on kliente leida. Kohtumiste kokkuleppimine ettevõtete juhtide ja finantsjuhtidega annab uuele kontorile kiire stardi.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1683006"
+   }
+  },
+  {
+   "company": "WIN SOURCE",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "Rahvusvaheline elektroonikakomponentide edasimüüja WIN SOURCE avas korraga mitu kaugtöö müügirolli Eestis: Account Manager, Account Executive ja Salesperson. Ülesanne on leida uusi kliente ning luua suhted ostu- ja tarneahela otsustajatega.",
+   "why": "Mitu müügirolli korraga tähendab, et firma tahab Eesti tootjate seas kiiresti kliendibaasi luua. Saame anda elektroonika- ja tööstusettevõtete andmebaasi ning broneerida kohtumisi ostujuhtidega.",
+   "services": [
+    "db",
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492413049"
+   }
+  },
+  {
+   "company": "Metroc (Soome)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-18",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "20 inimesega Soome AI SaaS firma Metroc, kellel on 450 klienti Soomes ja Rootsis, otsib Helsingisse Jr. Sales Executive'i uute klientide müügiks ehitus- ja kinnisvarafirmadele. Eesmärk on kasvatada ARR 2 miljonilt 10 miljonile eurole aastaks 2029 ja kasvada rahvusvaheliselt.",
+   "why": "Agressiivne kasvueesmärk ja uue kliendi müük esimesest kontaktist. Soome- ja rootsikeelne kohtumiste kokkuleppimine ehitus- ja kinnisvarafirmadega toidab nende müügitiimi.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4490470113"
+   }
+  },
+  {
+   "company": "AD Baltic SIA (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "Autoosade hulgimüüja AD Baltic, AD Internationali partner Baltikumis, otsib korraga B2B müügiesindajaid Riiga, Liepājasse ja Jelgavasse.",
+   "why": "Mitu piirkondlikku müügirolli korraga näitab kasvuplaani Läti regioonides. Saame kaardistada autoremonditöökojad ja varuosapoed ning broneerida uutele esindajatele kohtumised.",
+   "services": [
+    "db",
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1672287"
+   }
+  },
+  {
+   "company": "Nerostein OÜ",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-17",
+   "added": "2026-11-20",
+   "client": false,
+   "route": {
+    "from": "EE",
+    "to": [
+     "DE",
+     "AT"
+    ]
+   },
+   "what": "2015. aastal asutatud kivist tööpindade tootja Nerostein otsib Order Manageri Saksa ja Austria turule. Ettevõte nimetab end kiiresti kasvavaks ja üheks Euroopa juhtivaks kivist tööpindade tootjaks.",
+   "why": "Eesti tootja kasvab Saksakeelsetel turgudel ja võib vajada abi ka teistel turgudel, näiteks Põhjamaades. Sobib ekspordi ja uute edasimüüjate leidmise pakkumiseks.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1682297"
+   }
+  },
+  {
+   "company": "Linas Agro OÜ (Akola Group, Leedu)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "Leedu börsiettevõtte Akola Group Eesti tütarfirma Linas Agro otsib piirkondlikku müügiesindajat põllumajandussisendite müügiks ja teravilja kokkuostuks. Tööülesannetes on kirjas uute klientide leidmine.",
+   "why": "Uute talunike leidmine on aeglane väliesindaja töö. Põllumajandusettevõtete andmebaas ja kõnekampaania annavad esindajale soojad kohtumised.",
+   "services": [
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1681804"
+   }
+  },
+  {
+   "company": "Pro Ceva SIA (Läti)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "Lely lüpsirobotite müüja Pro Ceva otsib Latgale ja Vidzeme piirkonda müügijuhti, kelle ülesanne on aktiivselt leida uusi kliente. Nõutud on kogemus CRM-süsteemiga.",
+   "why": "Uus piirkonnajuht vajab kiiresti kohtumisi piimatootjatega. Saame anda talude andmebaasi ja kokku leppida esimesed kohtumised.",
+   "services": [
+    "db",
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1677756"
+   }
+  },
+  {
+   "company": "R8 Technologies",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "Hoonete energiatõhususe AI-tarkvara arendaja R8 Technologies otsib Sales and Marketing Specialisti, kes toetab kasvavat rahvusvahelist partnervõrku, müügitööd ja CRM-i andmete haldust.",
+   "why": "Firma kasvatab müüki partnerite kaudu mitmel turul. Kohtumiste kokkuleppimine kinnisvaraomanike ja haldusfirmadega Baltikumis ja Põhjamaades kiirendaks müüki.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4491608793"
+   }
+  },
+  {
+   "company": "Megapiksel Stuudio OÜ",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "Turundusagentuur Megapiksel avaldas Äripäevas sisuturundusartikli sellest, millal peab tegevjuht turundusse sekkuma ja milliseid müügimõõdikuid jälgida.",
+   "why": "Agentuur maksab turunduse eest, et leida uusi ärikliente. Artiklile järgnev kõnekampaania ettevõtete juhtidele muudab huvi kohtumisteks.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/19/millal-peab-tegevjuht-turundusse-sekkuma"
+   }
+  },
+  {
+   "company": "Verston Eesti OÜ",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "client": false,
+   "what": "Taristuehitaja Verston Eesti osales Äripäeva sisuturundusartiklis Rail Balticu ajakava edasilükkamisest. Ehitajad kardavad, et suurprojektide lõppedes tekib töödes paus.",
+   "why": "Tööde pausi vältimiseks peab firma leidma uusi tellijaid ka erasektorist. Saame aidata jõuda arendajate ja tööstusettevõteteni.",
+   "services": [
+    "db",
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/19/rail-balticu-ehitajad-ootavad-vastust-mis-hakkab-saama-jargmisel-sugisel"
    }
   }
  ]
