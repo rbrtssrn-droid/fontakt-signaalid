@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -6824,6 +6824,403 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/sisuturundus/2026/11/19/rail-balticu-ehitajad-ootavad-vastust-mis-hakkab-saama-jargmisel-sugisel"
+   }
+  },
+  {
+   "company": "Lemona Eesti OÜ",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE",
+    "FI"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Baltikumi üks suuremaid elektroonikakomponentide hulgimüüjaid otsib korraga kahte müügijuhti: üks LED-valgustuse ja teine edasimüüjate suunale. Mõlema ülesanne on uute B2B klientide ja partnerite leidmine ning eeliseks on Soome turu kogemus ja soome keel.",
+   "why": "Kaks uut müügirolli ja selge uute klientide eesmärk näitavad kasvuplaani nii Eestis kui ka Soomes. Saame kohe tuua kohtumisi valgustitootjate ja edasimüüjatega ning teha soomekeelseid kõnesid.",
+   "services": [
+    "pre",
+    "tel",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1682442"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "Mapon (Läti)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "FI",
+    "LV",
+    "EE",
+    "SE",
+    "LT"
+   ],
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Riias asuv sõidukite jälgimise ja telemaatika B2B SaaS-firma Mapon otsib Soome turule B2B Sales Development Representative'i. Firmal on üle 35 000 kliendi ja harukontorid Eestis, Soomes, Rootsis, Leedus ja mujal.",
+   "why": "Läti firma ehitab Soomes üles külmkontaktide müüki ühe SDR-iga. Soomekeelne kohtumiste kokkuleppimine ja Soome transpordifirmade andmebaas annavad pipeline'i kiiremini.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492810667"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "MyBee (Modus Mobility, Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Leedus loodud digitaalne autode püsitellimuse teenus MyBee, mis kuulub CityBee'ga samasse Modus Mobility gruppi, otsib Eestisse Customer Account Managerit, kes muudab päringud klientideks ja haldab kliendiportfelli.",
+   "why": "Leedu firma kasvatab müüki Eesti turul ja vajab rohkem päringuid. Saame helistada Eesti ettevõtetele, kellel on vaja autosid ilma pika liisinguta, ja tuua kohtumisi.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4493639908"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EE"
+    ]
+   }
+  },
+  {
+   "company": "Ignitis Group (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LT"
+   ],
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Leedu energiakontsern Ignitis otsib Tallinna Business Development Managerit, kes kasvatab grupi paindlikkuse ärisuunda Eestis, loob uusi partnerlusi ja toetab müügitiimi suuremate klientidega.",
+   "why": "Ignitis toob Eestisse uue teenuse ja vajab ettevõtteid, kellel on akud, tootmine või suur tarbimine. Saame koostada sihtrühma andmebaasi ja kokku leppida kohtumised tööstus- ja kinnisvarafirmadega.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492965589"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EE"
+    ]
+   }
+  },
+  {
+   "company": "Integrity360 (Iirimaa)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Iiri küberturbe teenuste firma Integrity360, millel on üle 780 töötaja ja kontor ka Leedus, otsib Vilniusesse Sales Executive'i küberturbe teenuste müügiks.",
+   "why": "Välisfirma kasvatab müüki Leedus ja ühe müüjaga on uue turu katmine aeglane. Leedukeelne kohtumiste kokkuleppimine keskmise suurusega ettevõtete IT-juhtidega toob kiiremini esimesed tehingud.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4485473628"
+   },
+   "route": {
+    "from": "IE",
+    "to": [
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "Steel Core Agency (SIA Fortena, Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Ehitus-, metalli- ja tööstusettevõtetele oskustööjõudu vahendav Läti firma otsib B2B müügi- ja äriarendusjuhti, kelle ülesanne on uute klientide leidmine Lätis ja välismaal.",
+   "why": "Firma otsib uusi ärikliente ka väljaspool Lätit. Saame anda Eesti ja Soome ehitus- ning tootmisettevõtete andmebaasi ja kokku leppida kohtumised.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1684265"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Kings International",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Rahvusvaheline õpilasolümpiaadide platvorm Kings International, kus osaleb üle 450 000 õpilase 14 riigist, alustab Lätis ja otsib Upworkist lätikeelset helistajat, kes tutvustab uut võistlust koolidele ja hariduskeskustele.",
+   "why": "Firma siseneb Läti turule ja ostab helistamist sisse. Saame pakkuda lätikeelset kõnekampaaniat koolidele ning sama teenust Eestis ja Leedus, kui nad laienevad edasi.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022123797265511227605"
+   }
+  },
+  {
+   "company": "Magnora Data Center (Norra)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Norra andmekeskuste arendaja Magnora ütleb, et Põhjamaade turg on küllastumas ja Eesti on loomulik koht investeerimiseks. Koos Sunlyga arendab ta Ristile andmekeskust, mille esimene etapp on 180 MW.",
+   "why": "Norra firma tuleb Eestisse miljardilise projektiga ja vajab kohalikke ehitajaid, tarnijaid ja tulevasi kliente. Saame aidata tal kohalike partneriteni jõuda ja pakkuda andmebaase.",
+   "services": [
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/20/miljarditesse-ulatuva-andmekeskuse-arendajad-usume-baltikumi-ja-eriti-eestisse"
+   },
+   "route": {
+    "from": "NO",
+    "to": [
+     "EE"
+    ]
+   }
+  },
+  {
+   "company": "Andmekeskuste ehituse tarnijad ja alltöövõtjad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-21",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Eleringile on esitatud seitse andmekeskuste liitumistaotlust kokku 2900 MW ulatuses. Projekte arendavad Sunly ja Magnora, Evecon, kes plaanib Risti kõrvale tööstusparki kuni üheksa tootmishoonega, ning Sinfra.",
+   "why": "Ehitus-, elektri-, jahutus- ja turvafirmadel tekib uus suur klientide rühm. Saame neid aidata arendajate ja peatöövõtjateni jõuda enne konkurente.",
+   "services": [
+    "db",
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610202694/data-center-boom-in-estonia-who-is-building-where-and-at-what-cost"
+   }
+  },
+  {
+   "company": "Ukraina kaitsetööstusettevõtted (FirePoint jt)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Ukraina kaitseettevõtted tutvustasid Tallinnas Open Arms Festil oma tehnoloogiat ja otsivad Euroopa partnereid, et viia osa tootmisest Euroopasse. Sama üritus käis enne Oslos, Stockholmis ja Helsingis.",
+   "why": "Ukraina firmad otsivad aktiivselt tootmis- ja allhankepartnereid Eestis ja Põhjamaades. Saame nende jaoks leida ja kokku viia sobivad metalli-, elektroonika- ja tootmisettevõtted.",
+   "services": [
+    "db",
+    "pre",
+    "eks"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610201512/ukrainian-defense-firms-showcase-latest-battlefield-tech-in-tallinn"
+   },
+   "route": {
+    "from": "UA",
+    "to": [
+     "EE",
+     "FI",
+     "SE",
+     "NO"
+    ]
+   }
+  },
+  {
+   "company": "Varajase faasi tehnoloogiaettevõtted (Plurali 1 mld fond)",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT",
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Eesti riskikapitalifond Plural kaasas uude fondi 1 miljard eurot ehk üle nelja korra rohkem kui kõik Balti fondid eelmisel aastal kokku. Kaks kolmandikku rahast läheb Euroopa varajase faasi tehnoloogiafirmadesse.",
+   "why": "Investeeringu saanud idufirmad peavad kiiresti esimesi ärikliente leidma ja müügiprotsessi üles ehitama. Neile sobivad kohtumiste kokkuleppimine, andmebaasid ja CRM.",
+   "services": [
+    "pre",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610203301/estonia-s-startup-sector-is-growing-faster-than-the-rest-of-the-economy"
+   }
+  },
+  {
+   "company": "Tootjavastutusorganisatsioon OÜ",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Tootjavastutusorganisatsioon avaldas Äripäevas sisuturundusartikli ELi pakendimäärusest, mille järgi võib pakendi tootja olla nüüd ka importija või turustaja.",
+   "why": "Määrus toob neile terve uue kliendirühma importijate ja edasimüüjate seas. Artiklile järgnev kõnekampaania nendele ettevõtetele muudab huvi lepinguteks.",
+   "services": [
+    "tel",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/23/pakendite-ja-pakendijaatmete-maarus-toi-kaasa-olulise-muudatuse-tootja-moistes"
+   }
+  },
+  {
+   "company": "Krattworks",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Aasta iduettevõtteks valitud kaitsevaldkonna droonifirma Krattworks on viimase aastaga laienenud 12 uuele sihtturule ja kasvatanud meeskonda. Firma osales Äripäeva sisuturundusartiklis.",
+   "why": "Kiiresti uutele turgudele laienev firma vajab kontakte ja kohtumisi igas uues riigis. Saame aidata Põhjamaade ja Baltikumi partnerite ning edasimüüjate leidmisega.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/20/aasta-iduettevotte-krattworksi-edu-taga-on-tugev-meeskond-ja-julgus-laieneda"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Intrac Eesti AS",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Rasketehnika müügi, rendi ja hooldusega tegelev Intrac Eesti osales Äripäeva sisuturundusartiklis, mis räägib küberturvalisusest kui hoolduse töökindluse küsimusest.",
+   "why": "Firma maksab turunduse eest ja tal on rendi- ja hooldusteenused, mida müüa ehitus- ja tööstusfirmadele. Kõnekampaania tehnikaparkide omanikele toob kohtumisi.",
+   "services": [
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/20/kuberrunnak-ei-puuduta-ainult-itd-vaid-voib-jatta-seisma-ka-rasketehnika"
+   }
+  },
+  {
+   "company": "LTH-Baas AS",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "client": false,
+   "what": "Äripäeva aasta eksportijaks ja Eesti edukaimaks ettevõtteks valitud merendusfirma LTH-Baas, kelle klientide hulgas on Disney ja Royal Caribbean, osales sisuturundusartiklis.",
+   "why": "Firma võtab ette suuri projekte eri riikides ja investeerib nähtavusse. Saame aidata leida Põhjamaade laevaomanikke ja laevatehaseid, kellega kohtumisi kokku leppida.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/20/aasta-eksportija-lth-baas-on-tousnud-maailma-suurimate-laevaomanike-usaldusvaarseks-partneriks"
    }
   }
  ]
