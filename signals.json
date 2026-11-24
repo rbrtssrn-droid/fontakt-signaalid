@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -7221,6 +7221,198 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/sisuturundus/2026/11/20/aasta-eksportija-lth-baas-on-tousnud-maailma-suurimate-laevaomanike-usaldusvaarseks-partneriks"
+   }
+  },
+  {
+   "company": "Point Zero Legal (Nuance37 Genossenschaft)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-21",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Firma otsib Upworkis vabakutselisi kohtumiste kokkuleppijaid, avajaid ja müügi lõpetajaid Leedus, Poolas, Rumeenias, Tšehhis ja Hollandis. Sihtkliendid on 20–50 ja enama veokiga transpordifirmad, kes on alates 2023. aastast maksnud Saksamaa teemaksu.",
+   "why": "Firma ostab kohtumiste kokkuleppimist juba sisse ja vajab Leedu transpordifirmade otsustajaid. Saame pakkuda leedukeelset helistamist ja transpordisektori andmebaasi.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022124137219058760714"
+   }
+  },
+  {
+   "company": "Elektrum Eesti OÜ",
+   "type": "crm",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Elektrum Eesti otsib CRM-juhti, kes juhib FreshDesk CRM-i juurutamist ja edasiarendust. Ülesanne on analüüsida kliendihalduse protsesse, vähendada käsitööd ja automatiseerida protsesse.",
+   "why": "Firma on keset CRM-i ja kliendihalduse protsesside ümberkorraldamist. Saame pakkuda oma CRM-i ja müügiprotsessi korrastamise kogemust enne, kui valik lõplikult kinnistub.",
+   "services": [
+    "crm"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1684303"
+   }
+  },
+  {
+   "company": "The Customization Group",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-21",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Personaliseeritud ja tellimusel trükitavate toodete tootja otsib Riia kontorisse uue äri müügiesindajat. Tema töö on leida Euroopa ja USA e-poode, võtta nendega esimene kontakt ja viia tehing lepinguni.",
+   "why": "Roll on puhas outbound müük ja firma ehitab alles müügi käsiraamatut. Saame anda kohtumisi Põhja- ja Baltimaade e-kaupmeestega, kuni uus inimene sisse elab.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4476826121"
+   }
+  },
+  {
+   "company": "PIREKA SIA (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Professionaalsete hügieeni- ja koristuslahenduste tarnija, kes on Baltikumis tegutsenud üle 27 aasta ja kellel on üle 10 000 kliendi, otsib korraga kahte aktiivse müügi B2B spetsialisti. Üks neist keskendub hotellisektorile.",
+   "why": "Kaks aktiivse müügi rolli korraga näitab selget uute äriklientide sihti. Saame pakkuda Läti hotellide ja ettevõtete andmebaasi ning kohtumiste kokkuleppimist.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1684307"
+   }
+  },
+  {
+   "company": "Medexy",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Professionaalse kosmeetika müüja otsib Eestisse brändiarendusjuhti, kelle ülesanne on aktiivselt otsida uusi kliente, helistada ja külastada kosmeetikuid, ilusalonge ja kliinikuid.",
+   "why": "Firma tahab Eesti turul müüki kasvatada ja uusi salonge ning kliinikuid juurde saada. Saame anda talle salongide andmebaasi ja kokkulepitud kohtumised.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492607680"
+   }
+  },
+  {
+   "company": "Delamode Latvia",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Euroopa osakoormus- ja täiskoormusvedusid pakkuv logistikafirma otsib Riiga müügispetsialisti, kes leiab ja võtab ühendust potentsiaalsete klientidega ning teeb müügipakkumisi.",
+   "why": "Uute klientide leidmine on rolli osa. Saame pakkuda Läti tootjate ja eksportijate kontakte ning kohtumisi logistikaostjatega.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492688295"
+   }
+  },
+  {
+   "company": "Goodpoint & Niviochem (Leedu)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Kaunases asuv firma otsib müügijuhti, kes juhib kogu müügiprotsessi uute klientide leidmisest kuni tehinguni. Eelis on kogemus loomakasvatussektori klientidega.",
+   "why": "Uus müügijuht vajab kiiresti kontakte loomakasvatusfirmadega. Saame pakkuda Baltikumi põllumajandusettevõtete andmebaasi ja helistamist.",
+   "services": [
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492692096"
+   }
+  },
+  {
+   "company": "VH Ehitusteenused OÜ",
+   "type": "exp",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Raplamaa ehitusfirma võitis Äripäeva Raplamaa edukate ettevõtete TOPi. Firma käive kasvas aastaga 59%.",
+   "why": "Kiiresti kasvav ehitusfirma vajab uusi tellijaid, et kasvu hoida. Saame tuua kohtumisi ärikinnisvara omanike ja arendajatega.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/top/2026/11/24/raplamaa-topi-voitja-tegi-mullu-voimsa-rekordi-oleme-20-aastat-oma-asja-ajanud"
+   }
+  },
+  {
+   "company": "Revin Grupp",
+   "type": "deal",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "client": false,
+   "what": "Revin Grupp avas Rakveres 20. novembril uue spordikeskuse, millesse firma investeeris umbes neli miljonit eurot.",
+   "why": "Uus spordikeskus vajab püsikliente ja ettevõtete lepinguid. Saame teha kõnekampaania Lääne-Virumaa tööandjatele töötajate sporditoetuse pakettide müümiseks.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/23/tuntud-ehitusfirma-investeeris-neli-miljonit-spordikeskusesse"
    }
   }
  ]
