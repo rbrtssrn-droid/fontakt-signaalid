@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -7413,6 +7413,442 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/uudised/2026/11/23/tuntud-ehitusfirma-investeeris-neli-miljonit-spordikeskusesse"
+   }
+  },
+  {
+   "company": "OctoServer (Nordit Group)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Tallinnas asuva peakontoriga GPU-serverite tootja otsib rahvusvahelist müügiesindajat. Tema ülesanne on leida ja kõnetada uusi ärikliente üle maailma: andmekeskused, pilveteenuse pakkujad, süsteemiintegraatorid ja ülikoolid.",
+   "why": "Firma alustab välisturgudel uute klientide otsimist nullist ja vajab kiiresti kohtumisi. Saame teha sihtturgudel eelmüüki ja koostada andmebaasi andmekeskustest ning integraatoritest.",
+   "services": [
+    "pre",
+    "tel",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4493001885"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "NK2x Lubricants (Rootsi)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Rootsi määrdeainete bränd laiendab Vilniuse kontoris rahvusvahelist müügitiimi. Uue töötaja põhitöö on külmkõned ning uute edasimüüjate, importijate ja autofirmade leidmine välisturgudel.",
+   "why": "Kuulutuses on otse kirjas külmkõned ja uute klientide leidmine. Saame pakkuda kohtumiste kokkuleppimist edasimüüjatega Baltikumis ja Põhjamaades ning müügiandmebaase.",
+   "services": [
+    "pre",
+    "tel",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4494116057"
+   },
+   "route": {
+    "from": "SE",
+    "to": [
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "Lime Technologies (Rootsi)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Rootsi CRM-tarkvara firma otsib Helsingisse müügiarendajat (SDR), kes helistab ettevõtetele, kirjutab neile ja broneerib kohtumisi müügitiimile.",
+   "why": "Firma kasvatab Soome turul outbound-müüki. Saame pakkuda Soome kohtumiste kokkuleppimist välja, kuni oma SDR on tööle võetud.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4486864279"
+   },
+   "route": {
+    "from": "SE",
+    "to": [
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "Siųsk pigiau (Technologijų era UAB, Leedu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Leedu pakisaatmise platvorm otsib B2B müügijuhti, kes leiab telefoni ja e-posti teel uusi ärikliente ning haldab kliendibaasi.",
+   "why": "Firma otsib selgelt uusi ärikliente telefonimüügiga. Saame teha e-poodidele ja ettevõtetele kõnekampaaniaid ning pakkuda andmebaasi.",
+   "services": [
+    "tel",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4493012503"
+   }
+  },
+  {
+   "company": "Nekos Oy (Soome)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Soome materjalikäsitlussüsteemide tootja otsib Tamperesse müügijuhti, kes ehitab üles rahvusvahelist ja kodumaist müüki ning leiab uusi kliente tööstus- ja logistikafirmade seast.",
+   "why": "Kuulutuses on kirjas uute klientide hankimine ja rahvusvahelise müügi ülesehitamine. Saame tuua kohtumisi Baltikumi tööstus- ja logistikafirmadega.",
+   "services": [
+    "pre",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4493093510"
+   },
+   "route": {
+    "from": "FI",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "City Tour Helsinki ja Royal Line (Soome)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "FI"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Helsingi pereettevõte, kellel on üle kümne Hop On Hop Off bussi ja kuus laeva, toob 2027. aastal oma bussiteenuse Tallinnasse. Firma otsib Tallinna müügijuhti, kes ehitab üles suhted hotellide ja partneritega.",
+   "why": "Uus turule tulija vajab Tallinnas kiiresti partnereid. Saame kokku leppida kohtumisi hotellide, reisibüroode ja kruiisiagentidega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1684706"
+   },
+   "route": {
+    "from": "FI",
+    "to": [
+     "EE"
+    ]
+   }
+  },
+  {
+   "company": "Kings Olympiad (Kings International)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Rahvusvaheline koolide olümpiaad saatis materjalid umbes 300 Läti koolile ja otsib nüüd läti keelt kõnelevat helistajat, kes võtab ühendust iga kooliga.",
+   "why": "Firma siseneb Läti turule ja vajab kohe läti keelset kõnekampaaniat. Sama tööd saame teha ka Eestis ja Leedus.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022125487702225882795"
+   },
+   "route": {
+    "from": "EX",
+    "to": [
+     "LV"
+    ]
+   }
+  },
+  {
+   "company": "1stopVAT (Leedu)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Leedu käibemaksuteenuse firma otsib uut müügiarendajat, kes helistab e-kaupmeestele ja SaaS-firmadele ning broneerib kohtumisi müügijuhtidele. Uus kuulutus lisandub varasemale.",
+   "why": "Firma värbab järjest SDR-e, seega on kohtumiste vajadus suur. Saame pakkuda välja kohtumiste kokkuleppimist Põhjamaade ja Baltikumi e-poodidega.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1684244"
+   }
+  },
+  {
+   "company": "3D Creative UAB (Leedu)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Leedu 3D-printimise teenuse pakkuja otsib värbamisfirma Emplonet kaudu B2B müügijuhti, kes otsib uusi kliente ja töötab nii Leedu kui ka välisklientidega.",
+   "why": "Firma vajab uusi tööstuskliente ka välismaal. Saame tuua kohtumisi Eesti ja Läti tootjatega, kes vajavad prototüüpe.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1684012"
+   }
+  },
+  {
+   "company": "AS Pinus",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Saaremaa Piimatööstuse tütarfirma, toiduainete hulgimüüja AS Pinus otsib müügiesindajat, kelle ülesanne on leida aktiivselt uusi ärikliente üle Eesti jaekaubanduses ja HoReCa sektoris.",
+   "why": "Kuulutuses on kirjas uute äriklientide aktiivne otsimine. Saame teha kõnekampaania toitlustusettevõtetele ja kauplustele ning pakkuda HoReCa andmebaasi.",
+   "services": [
+    "tel",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1684597"
+   }
+  },
+  {
+   "company": "Evisit (Läti)",
+   "type": "crm",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Läti meditsiinitöötajate e-õppe platvorm otsib kliendiprojektide juhti, kes ehitab müügiprotsessi üles alates kliendi leidmisest kuni lepinguni ja töötab CRM-süsteemiga.",
+   "why": "Firma korrastab müügiprotsessi ja vajab CRM-i. Saame pakkuda Fontakti CRM-i ja kohtumisi farmaatsia- ning meditsiinifirmadega.",
+   "services": [
+    "crm",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1684120"
+   }
+  },
+  {
+   "company": "WhistleHub",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Vilepuhumise platvorm WhistleHub avaldas Äripäevas tasulise artikli. Alates 2027. majandusaastast vaatavad audiitorid vilepuhumise korraldust senisest rohkem ja üksik e-posti aadress ei pruugi piisata.",
+   "why": "B2B SaaS maksab turunduse eest ja sihib kõiki 50+ töötajaga firmasid. Saame teha neile eelmüüki ja pakkuda sihtrühma andmebaasi.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev (sisuturundus)",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/24/vilepuhumine-audiitorite-tahelepanu-all-e-posti-aadressist-uksi-ei-piisa"
+   }
+  },
+  {
+   "company": "Atea",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Atea avaldas Äripäevas tasulise loo, kuidas ta paigaldas Go Groupile Cisco koosolekuruumide lahenduse.",
+   "why": "Atea maksab turunduse eest, et müüa koosolekuruumide lahendusi. Saame tuua kohtumisi IT-juhtidega keskmise suurusega firmades.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev (sisuturundus)",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/24/atea-aitas-go-groupi-videokoosolekute-tehnilised-mured-nulli-viia"
+   }
+  },
+  {
+   "company": "Eesti Ettevõtete Jõulupeod",
+   "type": "mkt",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Firmapidude korraldaja reklaamib Delfi sisuturunduses ühiseid jõulupidusid Tallinnas, Tartus ja mujal, kus hind on teada iga osaleja kohta.",
+   "why": "Ürituste korraldaja maksab turunduse eest ja vajab detsembris kiiresti ettevõtetest kliente. Saame teha kõnekampaania personalijuhtidele.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "Delfi Ärileht (sisuturundus)",
+    "url": "https://arileht.delfi.ee/a/120623575"
+   }
+  },
+  {
+   "company": "Carbonfex OÜ",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Richard Tomingase firma kavandab Kohtla-Järvele 5,1 miljonit eurot maksvat biosöetehast. Euroopa Liit toetab seda 2,33 miljoni euroga.",
+   "why": "Uus tehas vajab enne käivitamist ostjaid biosöele. Saame leida kliente põllumajandus-, ehitus- ja aiandusfirmade seast Eestis ja Põhjamaades.",
+   "services": [
+    "pre",
+    "db",
+    "eks"
+   ],
+   "source": {
+    "name": "Postimees",
+    "url": "https://majandus.postimees.ee/8588403/kaibeta-ja-tootajateta-ettevote-kavandab-kohtla-jarvele-miljonite-eest-tehast"
+   }
+  },
+  {
+   "company": "Craft Baltic ja Baltikumi siidritootjad",
+   "type": "exp",
+   "heat": 1,
+   "markets": [
+    "EE",
+    "LV",
+    "LT",
+    "FI"
+   ],
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Eesti, Läti, Leedu ja Soome väikesed siidritootjad püüavad 1,5 miljoni euro suuruse ELi projektiga jalga saada Austraalia turul.",
+   "why": "Tootjad otsivad uusi eksporditurge. Saame pakkuda eksporditeenust ja maaletoojate otsingut ka lähiturgudel.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "ERR News",
+    "url": "https://news.err.ee/1610205070/craft-baltic-finnish-cider-producers-looking-to-australia-s-export-market"
+   },
+   "route": {
+    "from": "EE",
+    "to": [
+     "AU"
+    ]
+   }
+  },
+  {
+   "company": "Venemaale eksportinud tootjad ja hulgimüüjad",
+   "type": "trig",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Valitsus sulgeb 1. detsembrist kuueks kuuks maanteepiiri Venemaaga. Tolliandmete järgi kahanes eksport üle idapiiri aastaga 75%, kuid üle piiri liigub endiselt sadu tuhandeid tonne kaupa.",
+   "why": "Idaturul müünud firmad peavad kiiresti leidma uued ostjad. Saame pakkuda eksporditeenust ja kohtumisi Baltikumi ning Põhjamaade ostjatega.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Delfi Ärileht",
+    "url": "https://arileht.delfi.ee/artikkel/120627103/eesti-majanduslik-side-venemaaga-kuivas-jarsult-kokku-idapiiri-ekspordist-kadus-aastaga-75"
+   }
+  },
+  {
+   "company": "COP31-l käinud Eesti ettevõtted (sh VKG Fiber, Ragn-Sells)",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "client": false,
+   "what": "Türgis ÜRO kliimakonverentsil käinud Eesti ettevõtted peavad reisi edukaks, sest said uusi ärikontakte. Nende sõnul on nüüd aeg visiitkaardid ette võtta.",
+   "why": "Messidel saadud kontaktid jäävad tihti kasutamata. Saame aidata kontaktidele helistada ja kohtumisi kokku leppida.",
+   "services": [
+    "pre",
+    "tel"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/uudised/2026/11/24/eesti-ettevotted-tulid-labikukkunud-kliimakonverentsilt-tagasi-uute-arikontaktidega-nuud-on-aeg-visiitkaardid-ette-votta"
    }
   }
  ]
