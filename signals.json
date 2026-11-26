@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -7849,6 +7849,285 @@
    "source": {
     "name": "Äripäev",
     "url": "https://www.aripaev.ee/uudised/2026/11/24/eesti-ettevotted-tulid-labikukkunud-kliimakonverentsilt-tagasi-uute-arikontaktidega-nuud-on-aeg-visiitkaardid-ette-votta"
+   }
+  },
+  {
+   "company": "BayWa r.e. Solar Systems SIA (Läti)",
+   "type": "exp",
+   "heat": 3,
+   "markets": [
+    "LV",
+    "SE"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Riias asuv päikesepaneelide, inverterite ja akusalvestite hulgimüüja otsib müügispetsialisti Rootsi turu arendamiseks. Ülesanne on leida uusi ärikliente ja hiljem laieneda ka teistele Põhjamaade turgudele.",
+   "why": "Firma avab Rootsi turgu ühe müüjaga. Saame tuua talle esimesed kohtumised Rootsi paigaldajate ja ehitusfirmadega ning pakkuda Rootsi ettevõtete andmebaasi.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492608521"
+   },
+   "route": {
+    "from": "LV",
+    "to": [
+     "SE"
+    ]
+   }
+  },
+  {
+   "company": "Euroopa sisustuslahenduste tootja (nimi Upworkis avaldamata)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "SE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Euroopa sisustuslahenduste tootja uurib Rootsi turule sisenemist ja otsib rootsi keelt valdavat inimest, kes helistaks 10–15 valitud B2B firmale ning teeks hiljem kuni viis pikka intervjuud võimalike kohalike partneritega.",
+   "why": "Firma ostab Rootsi turu kõnesid juba sisse. Saame pakkuda suuremat ja süsteemsemat turu-uuringut ning sellele järgnevat partnerite otsingut ja kohtumiste kokkuleppimist.",
+   "services": [
+    "eks",
+    "tel",
+    "pre"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022125177815441199515"
+   }
+  },
+  {
+   "company": "Orbico Group (Wella Professionals)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Orbico otsib WorkingDay Latvia kaudu kuut Key Account Executive'it, kaks igasse Balti riiki, et arendada Wella Professionalsi salongiäri. Roll hõlmab uute klientide leidmist ja võtmesalongide arendamist.",
+   "why": "Kuus uut müüjat korraga tähendab suurt uute salongide sihti. Saame kõigis kolmes riigis tuua uutele müüjatele kohtumisi ja anda salongide andmebaasi.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1685044"
+   }
+  },
+  {
+   "company": "MinIO (USA)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "FI"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Andmesalvestustarkvara firma MinIO otsib Soome regiooni Sr Regional Sales Manageri, kelle ülesanne on leida uusi suurkliente ja luua müügitoru ise aktiivse prospekteerimisega.",
+   "why": "Üks müüja uues regioonis peab pipeline'i ise nullist looma. Saame pakkuda Soome IT-otsustajatega kohtumiste kokkuleppimist.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4494425339"
+   },
+   "route": {
+    "from": "US",
+    "to": [
+     "FI"
+    ]
+   }
+  },
+  {
+   "company": "Velos IoT (TravelSIM)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Erakapitali toel kasvav IoT-ühenduste firma otsib Tallinna TravelSIM-i äriüksusele juhti, kes ehitab üles B2B ja B2B2C müügitiimi ning viib äri rahvusvaheliselt laiemale turule.",
+   "why": "Uus juht peab kiiresti müügikanalid ja partnerid tööle saama. Saame aidata partnerite ja ärikliente leida ning pakkuda CRM-i uue tiimi jaoks.",
+   "services": [
+    "pre",
+    "eks",
+    "crm"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4492689514"
+   }
+  },
+  {
+   "company": "Everwest Group (Leedu)",
+   "type": "exp",
+   "heat": 2,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Leedu logistikafirma otsib Business Development Manageri ELi turgudele, et leida uusi ärikliente ja koostada kasvuplaane.",
+   "why": "Firma otsib uusi kliente teistest ELi riikidest. Saame pakkuda Eesti, Läti ja Põhjamaade ekspediitorite ning tootjatega kohtumisi.",
+   "services": [
+    "eks",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4494119472"
+   },
+   "route": {
+    "from": "LT",
+    "to": [
+     "EX"
+    ]
+   }
+  },
+  {
+   "company": "Airline Support Baltic SIA (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Eralennukite hoolduse ja remondiga tegelev kasvav firma otsib müügispetsialisti, kelle ülesanne on otsida potentsiaalseid kliente, täiendada kliendibaasi ja tuua uusi kliente.",
+   "why": "Kuulutuses on otse kirjas uute klientide otsimine. Saame aidata lennukiomanike ja lennufirmade otsustajateni jõuda ning pakkuda andmebaasi.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1685157"
+   }
+  },
+  {
+   "company": "Valio Eesti AS",
+   "type": "deal",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Valio Eesti investeerib aastatel 2027–2028 Laeva tehasesse 30 miljonit eurot ja laiendab tehast 10 000 ruutmeetri võrra. Ehitus algab juba jaanuaris.",
+   "why": "Suurem tehas tähendab rohkem toodangut, mida müüa, ja uusi tarneid. Saame pakkuda ekspordikontakte ning tarnijatele kohtumisi Valioga.",
+   "services": [
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "Äripäev",
+    "url": "https://www.aripaev.ee/saated/2026/11/23/valio-eesti-laiendab-30-miljoni-euroga-tehast-juba-jaanuaris-voite-naha-koppasid"
+   }
+  },
+  {
+   "company": "Rafimeta UAB (Leedu)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-23",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Arvutikomponentide edasimüüja otsib müügi- ja logistikajuhti, kes otsib uusi B2B kliente, teeb pakkumisi ja korraldab rahvusvahelisi vedusid.",
+   "why": "Uute B2B klientide otsimine on kuulutuses esimene ülesanne. Saame pakkuda IT-firmade andmebaasi ja kohtumisi Baltikumis.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1684218"
+   }
+  },
+  {
+   "company": "TEGOS (advokaadibüroo, Leedu)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Advokaadibüroo TEGOS otsib Vilniusesse turunduse ja äriarenduse juhti, kes koordineerib uute klientide toomist ning teeb koostööd Läti ja Eesti turundustiimidega.",
+   "why": "Uus äriarendusjuht vajab uute klientidega kohtumisi. Saame pakkuda B2B kohtumiste kokkuleppimist kõigis kolmes Balti riigis.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "CVonline.lt",
+    "url": "https://www.cvonline.lt/lt/vacancy/1685480"
+   }
+  },
+  {
+   "company": "Evecon",
+   "type": "deal",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Evecon ja Prantsuse investor Mirova avasid Lihula lähedal 110 miljonit eurot maksnud hübriidpargi, mis ühendab päikesepargi ja 250 MWh akusalvesti.",
+   "why": "Uus tootmisvõimsus vajab ostjaid. Saame aidata leida suuri elektritarbijaid, kellele pakkuda pikaajalisi lepinguid.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "ERR",
+    "url": "https://www.err.ee/1610206279/evecon-ja-mirova-avasid-lihulas-110-miljonit-maksva-hubriidpargi"
+   }
+  },
+  {
+   "company": "Renoveerimis- ja rekonstrueerimisfirmad",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "client": false,
+   "what": "Statistikaameti järgi kasvas Eesti ehitusturu maht kolmandas kvartalis 8%, peamiselt remondi- ja rekonstrueerimistööde arvelt. Uusi elamuehituse lubasid võeti vähem.",
+   "why": "Renoveerimisega tegelevad firmad ja nende tarnijad saavad kasvu. Saame pakkuda kõnekampaaniaid korteriühistutele ja kinnisvaraomanikele.",
+   "services": [
+    "tel",
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "ERR",
+    "url": "https://www.err.ee/1610206786/remonditood-veavad-kohaliku-ehitusmahu-kasvu"
    }
   }
  ]
