@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "signals": [
   {
    "company": "Morek IT OÜ",
@@ -8128,6 +8128,290 @@
    "source": {
     "name": "ERR",
     "url": "https://www.err.ee/1610206786/remonditood-veavad-kohaliku-ehitusmahu-kasvu"
+   }
+  },
+  {
+   "company": "Teknika Industry Technologies Group (Poola/Itaalia)",
+   "type": "abroad",
+   "heat": 3,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Poolas ja Itaalias tegutsev puidutöötlemisseadmete müüja laieneb Baltikumi ning otsib Lätti müügiesindajat, kes avab uue turu ja leiab aktiivselt uusi B2B kliente puidutööstusest.",
+   "why": "Uus turg ja üks müüja, kes alustab nullist. Saame pakkuda Läti ja Eesti puidutööstuse otsustajatega kohtumiste kokkuleppimist ning sihtfirmade andmebaasi.",
+   "services": [
+    "pre",
+    "db",
+    "tel"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1685791"
+   },
+   "route": {
+    "from": "PL",
+    "to": [
+     "LV"
+    ]
+   }
+  },
+  {
+   "company": "MAK Lietuva (Leedu/Poola)",
+   "type": "hire",
+   "heat": 3,
+   "markets": [
+    "LT"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Vilniuse äriklientide kindlustusmaakler, mille omanike seas on Poola MAK Group, otsib müügijuhti, kes kujundab, kuidas firma võidab Leedus uusi ärikliente.",
+   "why": "Uue äriklientide müügi ülesehitamine on otsene vajadus. Saame pakkuda Leedu ettevõtete juhtidega kohtumiste kokkuleppimist ja sihtrühma andmebaasi.",
+   "services": [
+    "pre",
+    "tel",
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4495051461"
+   },
+   "route": {
+    "from": "PL",
+    "to": [
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "Ajax Systems (Ukraina)",
+   "type": "abroad",
+   "heat": 2,
+   "markets": [
+    "EE",
+    "LV",
+    "LT"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Euroopa suurim turvasüsteemide tootja Ajax Systems otsib Tallinnasse Balti riikide Pre-Sales Engineeri. Firma ehitab kohalikke müügitiime, et turgu paremini katta.",
+   "why": "Balti müügitiimi ehitamine tähendab vajadust uute paigaldajate ja edasimüüjatega kohtuda. Saame pakkuda turvafirmade ja ehitajate seas kohtumiste kokkuleppimist kolmes Balti riigis.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4494403152"
+   },
+   "route": {
+    "from": "UA",
+    "to": [
+     "EE",
+     "LV",
+     "LT"
+    ]
+   }
+  },
+  {
+   "company": "NoxRoc & Westoria mööblibrändid (nimi Upworkis avaldamata)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "FI",
+    "SE"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Mängu- ja elustiilimööbli brändide NoxRoc ja Westoria omanik otsib Upworkis Põhja-Euroopa müügikonsultanti, kes leiaks jaekettide ostujuhte ja edasimüüjaid ning aitaks kohtumisteni jõuda.",
+   "why": "Firma otsib uusi B2B kliente Põhjamaade jaekaubanduses. Saame pakkuda Soome ja Rootsi mööbli- ja elektroonikaketide ostujuhtidega kohtumiste kokkuleppimist.",
+   "services": [
+    "pre",
+    "eks",
+    "db"
+   ],
+   "source": {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/jobs/~022125950220143047831"
+   }
+  },
+  {
+   "company": "Elcor (Rootsi)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "SE",
+    "LT"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Elektrikappide ja madalpingejaotlate tootja Elcor, kelle tootmine asub Leedus, otsib Västeråsi tehnilist müüjat, kelle ülesanne on laiendada kliendibaasi ja leida uusi ärikliente.",
+   "why": "Uute klientide leidmine on rolli põhiülesanne. Saame pakkuda Rootsi elektritöövõtjate ja ehitajatega kohtumiste kokkuleppimist.",
+   "services": [
+    "pre",
+    "db"
+   ],
+   "source": {
+    "name": "Platsbanken",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31780805"
+   }
+  },
+  {
+   "company": "Nobel Digital OÜ",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Prindi-, esitlus- ja ruumilahenduste (Canon, HP, Crestron) müüja otsib tarkvara müügispetsialisti, kes loob uusi kontakte, lepib kokku kliendikohtumisi ja liigutab müügitoru CRM-is.",
+   "why": "Firma vajab rohkem kohtumisi uute äriklientidega. Saame pakkuda kohtumiste kokkuleppimist ettevõtete IT- ja haldusjuhtidega.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/vacancy/1685519"
+   }
+  },
+  {
+   "company": "Mobire Grupp",
+   "type": "mkt",
+   "heat": 2,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-25",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Mobire avaldas Äripäevas sisuturundusartikli, kus grupi juht Andrus Valma räägib elektriautode kasvust ja sellest, et autoäri kasumlikkus sõltub üha enam kliendisuhte tugevusest.",
+   "why": "Firma maksab nähtavuse eest ja rõhutab kliendisuhteid. Saame pakkuda ettevõtete autopargi juhtidega kohtumiste kokkuleppimist ja CRM-i kliendisuhete haldamiseks.",
+   "services": [
+    "pre",
+    "tel",
+    "crm"
+   ],
+   "source": {
+    "name": "Äripäev (sisuturundus)",
+    "url": "https://www.aripaev.ee/sisuturundus/2026/11/25/mobire-juht-viie-aasta-parast-on-ule-poole-muudavatest-autodest-elektrilised-senine-autoari-vajab-aga-umber-motestamist"
+   }
+  },
+  {
+   "company": "REPA SIA (Läti)",
+   "type": "hire",
+   "heat": 2,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Ehitus- ja laadimistehnika müüja ja hooldaja Repa otsib tööstustehnika müügijuhti, kelle ülesanne on aktiivne töö ettevõtetega uute klientide leidmiseks ja kohtumiste korraldamine.",
+   "why": "Kuulutus rõhutab uute ärikliente leidmist ja kohtumisi. Saame pakkuda Läti ehitus- ja logistikafirmadega kohtumiste kokkuleppimist.",
+   "services": [
+    "pre",
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1685710"
+   }
+  },
+  {
+   "company": "Hostnet SIA (Läti)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Üle 20 aasta tegutsenud Läti hostingu- ja pilveteenuste pakkuja otsib IT- ja hostingutoodete B2B müügispetsialisti. Kuulutus mainib Pipedrive'i.",
+   "why": "Pipedrive'i kasutaja võib otsida uut CRM-i ning firma vajab uusi B2B kliente. Saame pakkuda kohtumiste kokkuleppimist ja CRM-i.",
+   "services": [
+    "pre",
+    "crm"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1685603"
+   }
+  },
+  {
+   "company": "Regula Baltija SIA (Läti)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-24",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Spetsiaalseadmete tootja otsib müügispetsialisti, kes tegeleb aktiivse müügi ja uute klientide leidmisega. Töö on seotud välisriikidega.",
+   "why": "Uute klientide leidmine on rolli osa. Saame pakkuda välisturgude sihtfirmade andmebaasi ja kohtumiste kokkuleppimist.",
+   "services": [
+    "eks",
+    "db",
+    "pre"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1684670"
+   }
+  },
+  {
+   "company": "ILUM 8 (Läti)",
+   "type": "hire",
+   "heat": 1,
+   "markets": [
+    "LV"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Karkassmajade müüja otsib müügijuhti, kes nõustab kliente ja viib nad lepingu allkirjastamiseni. Maju tarnitakse eri riikidesse.",
+   "why": "Firma müüb ka välismaale ja vajab rohkem päringuid. Saame pakkuda B2B partnerite, nt arendajate leidmist kõnekampaaniaga.",
+   "services": [
+    "tel",
+    "db"
+   ],
+   "source": {
+    "name": "CV.lv",
+    "url": "https://www.cv.lv/lv/vacancy/1680695"
+   }
+  },
+  {
+   "company": "Eesti e-kaupmehed",
+   "type": "trig",
+   "heat": 1,
+   "markets": [
+    "EE"
+   ],
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "client": false,
+   "what": "Väljastpoolt ELi tellitud väikepakid on uute tasude tõttu kuni viis eurot kallimad ja Aasia pakkide arv on vähenenud. Eesti Panga ökonomisti sõnul on osa oste liikunud Eesti kaupmeeste juurde.",
+   "why": "Kasvava nõudlusega e-poed vajavad tarnijaid ja partnereid. Saame pakkuda neile B2B tarnijate ja partnerite leidmist ning CRM-i.",
+   "services": [
+    "db",
+    "crm"
+   ],
+   "source": {
+    "name": "Postimees Majandus",
+    "url": "https://majandus.postimees.ee/8590005/hea-uudis-eesti-kaupmeestele-tollitasud-on-suunanud-raha-nende-tasku"
    }
   }
  ]
